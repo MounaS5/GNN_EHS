@@ -1,0 +1,987 @@
+Id	CAS	SMILES	Status	Experimental value	Predicted value
+1	60-11-7	N(=Nc1ccc(cc1)N(C)C)c2ccccc2	Training	Carcinogen	Carcinogen
+2	67-66-3	C(Cl)(Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+3	56-53-1	Oc1ccc(cc1)C(=C(c2ccc(O)cc2)CC)CC	Training	Carcinogen	Carcinogen
+4	56-57-5	O=[N+]([O-])c1cc[n+]([O-])c2ccccc12	Training	Carcinogen	Carcinogen
+5	91-59-8	Nc1ccc2ccccc2(c1)	Training	Carcinogen	Carcinogen
+6	92-87-5	Nc1ccc(cc1)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+7	53-96-3	O=C(Nc2ccc3c1ccccc1Cc3(c2))C	Training	Carcinogen	Carcinogen
+8	50-32-8	c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45	Training	Carcinogen	Carcinogen
+9	86-30-6	O=NN(c1ccccc1)c2ccccc2	Training	Carcinogen	Carcinogen
+10	96-45-7	N1C(NCC1)=S	Training	Carcinogen	Possible NON-Carcinogen
+11	3068-88-0	O=C1OC(C)C1	Training	Carcinogen	Possible NON-Carcinogen
+12	94-59-7	O1c2ccc(cc2(OC1))CC=C	Training	Carcinogen	Carcinogen
+13	68-12-2	O=CN(C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+14	67-21-0	O=C(O)C(N)CCSCC	Training	Carcinogen	Possible NON-Carcinogen
+15	106-89-8	O1CC1CCl	Training	Carcinogen	Carcinogen
+16	59-89-2	O=NN1CCOCC1	Training	Carcinogen	Carcinogen
+17	101-21-3	O=C(OC(C)C)Nc1cccc(c1)Cl	Training	NON-Carcinogen	Carcinogen
+18	57-57-8	O=C1OCC1	Training	Carcinogen	Possible NON-Carcinogen
+19	71-55-6	CC(Cl)(Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+20	51-79-6	O=C(OCC)N	Training	Carcinogen	Possible NON-Carcinogen
+21	79-44-7	O=C(N(C)C)Cl	Training	Carcinogen	Possible NON-Carcinogen
+22	61-82-5	n1c[nH]nc1N	Training	Carcinogen	Possible NON-Carcinogen
+23	101-14-4	Nc1ccc(cc1Cl)Cc2ccc(N)c(c2)Cl	Training	Carcinogen	Carcinogen
+24	592-62-1	O=C(OC[N-][N+](=O)C)C	Training	Carcinogen	Carcinogen
+25	50-81-7	O=C1C(O)=C(O)OC1C(O)CO	Training	NON-Carcinogen	Possible NON-Carcinogen
+26	636-21-5	Nc1ccccc1C	Training	Carcinogen	Carcinogen
+27	57-06-7	C(=NCC=C)=S	Training	Carcinogen	Carcinogen
+28	2835-39-4	O=C(OCC=C)CC(C)C	Training	Carcinogen	Possible NON-Carcinogen
+29	2432-99-7	O=C(O)CCCCCCCCCCN	Training	Carcinogen	Possible NON-Carcinogen
+30	71-43-2	c1ccccc1	Training	Carcinogen	Possible NON-Carcinogen
+31	2185-92-4	Nc1ccccc1c2ccccc2	Training	Carcinogen	Carcinogen
+32	108-60-1	O(C(C)CCl)C(C)CCl	Training	Carcinogen	Possible NON-Carcinogen
+33	106-99-0	C=CC=C	Training	Carcinogen	Possible NON-Carcinogen
+34	124-48-1	C(Cl)(Br)Br	Training	Carcinogen	Possible NON-Carcinogen
+35	2832-40-8	O=C2C=CC(=CC2(=NNc1ccc(cc1)NC(=O)C))C	Training	Carcinogen	Carcinogen
+36	842-07-9	O=C3C=Cc1ccccc1C3(=NNc2ccccc2)	Training	Carcinogen	Carcinogen
+37	21739-91-3	O=C(O)C=C(C(=O)c1ccc(OC)cc1)Br	Training	Carcinogen	Carcinogen
+38	5160-02-1	O=C3C=Cc1ccccc1C3(=NNc2cc(c(cc2S(=O)(=O)O)Cl)C)	Training	Carcinogen	Carcinogen
+39	96-12-8	C(C(CBr)Br)Cl	Training	Carcinogen	Possible NON-Carcinogen
+40	106-93-4	C(CBr)Br	Training	Carcinogen	Possible NON-Carcinogen
+41	609-20-1	Nc1cc(c(N)c(c1)Cl)Cl	Training	Carcinogen	Carcinogen
+42	78-87-5	CC(CCl)Cl	Training	Carcinogen	Carcinogen
+43	103-23-1	O=C(OCC(CC)CCCC)CCCCC(=O)OCC(CC)CCCC	Training	Carcinogen	Carcinogen
+44	117-81-7	O=C(OCC(CC)CCCC)c1ccccc1(C(=O)OCC(CC)CCCC)	Training	Carcinogen	Carcinogen
+45	101-90-6	O(c2cccc(OCC1OC1)c2)CC3OC3	Training	Carcinogen	Carcinogen
+46	140-88-5	O=C(OCC)C=C	Training	Carcinogen	Possible NON-Carcinogen
+47	2784-94-3	O=[N+]([O-])c1cc(ccc1(NC))N(CCO)CCO	Training	Carcinogen	Carcinogen
+48	108-78-1	n1c(nc(nc1N)N)N	Training	Carcinogen	Possible NON-Carcinogen
+49	13552-44-8	Nc1ccc(cc1)Cc2ccc(N)cc2	Training	Carcinogen	Carcinogen
+50	150-68-5	O=C(Nc1ccc(cc1)Cl)N(C)C	Training	Carcinogen	Carcinogen
+51	101-80-4	O(c1ccc(N)cc1)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+52	76-01-7	C(C(Cl)(Cl)Cl)(Cl)Cl	Training	Carcinogen	Carcinogen
+53	75-56-9	O1CC1C	Training	Carcinogen	Carcinogen
+54	542-75-6	C(=CCl)CCl	Training	Carcinogen	Possible NON-Carcinogen
+55	1746-01-6	O1c3cc(c(cc3(Oc2cc(c(cc12)Cl)Cl))Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+56	630-20-6	C(C(Cl)(Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+57	26471-62-5	O=C=Nc1ccc(c(N=C=O)c1)C	Training	Carcinogen	Carcinogen
+58	79-01-6	C(=C(Cl)Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+59	78-42-2	O=P(OCC(CC)CCCC)(OCC(CC)CCCC)OCC(CC)CCCC	Training	Carcinogen	Carcinogen
+60	17924-92-4	O=C1OC(C)CCCC(=O)CCCC=Cc2cc(O)cc(O)c12	Training	Carcinogen	Carcinogen
+61	85-68-7	O=C(OCc1ccccc1)c2ccccc2(C(=O)OCCCC)	Training	Carcinogen	Possible NON-Carcinogen
+62	119-53-9	O=C(c1ccccc1)C(O)c2ccccc2	Training	NON-Carcinogen	Carcinogen
+63	105-60-2	O=C1NCCCCC1	Training	NON-Carcinogen	Possible NON-Carcinogen
+64	1936-15-8	O=C3C=Cc1cc(cc(c1C3(=NNc2ccccc2))S(=O)(=O)O)S(=O)(=O)O	Training	NON-Carcinogen	Carcinogen
+65	3567-69-9	O=C3C(=NNc1ccc(c2ccccc12)S(=O)(=O)O)C=C(c4ccccc34)S(=O)(=O)O	Training	NON-Carcinogen	Carcinogen
+66	95-50-1	c1ccc(c(c1)Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+67	33229-34-4	O=[N+]([O-])c1cc(ccc1(NCCO))N(CCO)CCO	Training	NON-Carcinogen	Carcinogen
+68	148-24-3	Oc1cccc2cccnc12	Training	NON-Carcinogen	Carcinogen
+69	69-65-8	OCC(O)C(O)C(O)C(O)CO	Training	NON-Carcinogen	Possible NON-Carcinogen
+70	108-95-2	Oc1ccccc1	Training	NON-Carcinogen	Possible NON-Carcinogen
+71	115-07-1	C=CC	Training	NON-Carcinogen	Possible NON-Carcinogen
+72	15481-70-6	Nc1cccc(N)c1C	Training	NON-Carcinogen	Carcinogen
+73	968-81-0	O=C(NC1CCCCC1)NS(=O)(=O)c2ccc(cc2)C(=O)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+74	116-06-3	O=C(ON=CC(C)(C)SC)NC	Training	NON-Carcinogen	Possible NON-Carcinogen
+75	101-05-3	n1c(nc(nc1Cl)Cl)Nc2ccccc2Cl	Training	NON-Carcinogen	Carcinogen
+76	118-92-3	O=C(O)c1ccccc1(N)	Training	NON-Carcinogen	Carcinogen
+77	77-65-6	O=C(N)NC(=O)C(CC)(CC)Br	Training	NON-Carcinogen	Possible NON-Carcinogen
+78	140-49-8	O=C(Nc1ccc(cc1)C(=O)CCl)C	Training	NON-Carcinogen	Carcinogen
+79	999-81-5	C[N+](C)(C)CCCl	Training	NON-Carcinogen	Possible NON-Carcinogen
+80	6959-47-3	n1ccccc1CCl	Training	NON-Carcinogen	Carcinogen
+81	94-20-2	O=C(NCCC)NS(=O)(=O)c1ccc(cc1)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+82	56-72-4	O=C2Oc1cc(OP(OCC)(OCC)=S)ccc1C(=C2Cl)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+83	333-41-5	n1c(OP(OCC)(OCC)=S)cc(nc1C(C)C)C	Training	NON-Carcinogen	Carcinogen
+84	262-12-4	O1c3ccccc3(Oc2ccccc12)	Training	NON-Carcinogen	Possible NON-Carcinogen
+85	62-73-7	O=P(OC=C(Cl)Cl)(OC)OC	Training	Carcinogen	Carcinogen
+86	1212-29-9	N(C(NC1CCCCC1)=S)C2CCCCC2	Training	NON-Carcinogen	Possible NON-Carcinogen
+87	60-51-5	O=C(NC)CSP(OC)(OC)=S	Training	NON-Carcinogen	Possible NON-Carcinogen
+88	54150-69-5	O(c1ccc(N)c(OC)c1)C	Training	NON-Carcinogen	Carcinogen
+89	121-14-2	O=[N+]([O-])c1ccc(c(c1)[N+](=O)[O-])C	Training	Carcinogen	Carcinogen
+90	78-34-2	O1CCOC(C1SP(OCC)(OCC)=S)SP(OCC)(OCC)=S	Training	NON-Carcinogen	Possible NON-Carcinogen
+91	72-20-8	O1C2C1C3CC2C4C3C5(C(=C(C4(C5(Cl)Cl)Cl)Cl)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+92	75-47-8	C(I)(I)I	Training	NON-Carcinogen	Possible NON-Carcinogen
+93	434-13-9	O=C(O)CCC(C)C2CCC3C4CCC1CC(O)CCC1(C)C4(CCC23(C))	Training	NON-Carcinogen	Possible NON-Carcinogen
+94	1634-78-2	O=C(OCC)CC(C(=O)OCC)SP(=O)(OC)OC	Training	NON-Carcinogen	Carcinogen
+95	121-75-5	O=C(OCC)CC(C(=O)OCC)SP(OC)(OC)=S	Training	NON-Carcinogen	Possible NON-Carcinogen
+96	72-43-5	O(c1ccc(cc1)C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)C	Training	NON-Carcinogen	Carcinogen
+97	298-00-0	O=[N+]([O-])c1ccc(OP(OC)(OC)=S)cc1	Training	NON-Carcinogen	Carcinogen
+98	1465-25-4	NCCNc2cccc1ccccc12	Training	NON-Carcinogen	Carcinogen
+99	619-17-0	O=C(O)c1ccc(cc1(N))[N+](=O)[O-]	Training	NON-Carcinogen	Carcinogen
+100	86-57-7	O=[N+]([O-])c2cccc1ccccc12	Training	NON-Carcinogen	Carcinogen
+101	99-56-9	O=[N+]([O-])c1ccc(N)c(N)c1	Training	NON-Carcinogen	Carcinogen
+102	834-28-6	N(C(=NCCc1ccccc1)N)=C(N)N	Training	NON-Carcinogen	Possible NON-Carcinogen
+103	624-18-0	Nc1ccc(N)cc1	Training	NON-Carcinogen	Carcinogen
+104	89-25-8	O=C1N(N=C(C)C1)c2ccccc2	Training	NON-Carcinogen	Carcinogen
+105	103-85-5	NC(Nc1ccccc1)=S	Training	NON-Carcinogen	Carcinogen
+106	88-96-0	O=C(N)c1ccccc1(C(=O)N)	Training	NON-Carcinogen	Possible NON-Carcinogen
+107	85-44-9	O=C1OC(=O)c2ccccc12	Training	NON-Carcinogen	Possible NON-Carcinogen
+108	2783-94-0	O=C3C=Cc1cc(ccc1C3(=NNc2ccc(cc2)S(=O)(=O)O))S(=O)(=O)O	Training	NON-Carcinogen	Carcinogen
+109	2438-88-2	O=[N+]([O-])c1c(c(c(OC)c(c1Cl)Cl)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+110	97-77-8	C(N(CC)CC)(=S)SSC(N(CC)CC)=S	Training	NON-Carcinogen	Possible NON-Carcinogen
+111	1156-19-0	O=C(NN1CCCCCC1)NS(=O)(=O)c2ccc(cc2)C	Training	NON-Carcinogen	Carcinogen
+112	64-77-7	O=C(NCCCC)NS(=O)(=O)c1ccc(cc1)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+113	6369-59-1	Nc1ccc(N)c(c1)C	Training	NON-Carcinogen	Carcinogen
+114	150-38-9	O=C(O)CN(CC(=O)O)CCN(CC(=O)O)CC(=O)O	Training	NON-Carcinogen	Carcinogen
+115	73-22-3	O=C(O)C(N)Cc2c[nH]c1ccccc12	Training	NON-Carcinogen	Possible NON-Carcinogen
+116	117-79-3	O=C1c3ccccc3(C(=O)c2cc(N)ccc12)	Training	Carcinogen	Carcinogen
+117	17026-81-2	O=C(Nc1ccc(OCC)c(N)c1)C	Training	Carcinogen	Carcinogen
+118	82-28-0	O=C1c3ccccc3(C(=O)c2c(N)c(ccc12)C)	Training	Carcinogen	Carcinogen
+119	119-34-6	O=[N+]([O-])c1cc(N)ccc1(O)	Training	Carcinogen	Carcinogen
+120	121-66-4	O=[N+]([O-])c1cnc(N)s1	Training	Carcinogen	Carcinogen
+121	142-04-1	Nc1ccccc1	Training	Carcinogen	Carcinogen
+122	134-29-2	O(c1ccccc1(N))C	Training	Carcinogen	Carcinogen
+123	103-33-3	N(=Nc1ccccc1)c2ccccc2	Training	Carcinogen	Carcinogen
+124	109-69-3	CCCCCl	Training	NON-Carcinogen	Possible NON-Carcinogen
+125	156-62-7	N#CN	Training	NON-Carcinogen	Possible NON-Carcinogen
+126	57-74-9	C2(=C(C3(C1C(CC(C1Cl)Cl)C2(C3(Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+127	115-28-6	O=C(O)C1C(C(=O)O)C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+128	20265-96-7	Nc1ccc(cc1)Cl	Training	Carcinogen	Carcinogen
+129	510-15-6	O=C(OCC)C(O)(c1ccc(cc1)Cl)c2ccc(cc2)Cl	Training	Carcinogen	Carcinogen
+130	563-47-3	C=C(C)CCl	Training	Carcinogen	Possible NON-Carcinogen
+131	6959-48-4	n1cccc(c1)CCl	Training	Carcinogen	Carcinogen
+132	5131-60-2	Nc1ccc(c(N)c1)Cl	Training	Carcinogen	Carcinogen
+133	95-83-0	Nc1ccc(cc1(N))Cl	Training	Carcinogen	Carcinogen
+134	1897-45-6	N#Cc1c(c(C#N)c(c(c1Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+135	95-74-9	Nc1ccc(c(c1)Cl)C	Training	NON-Carcinogen	Carcinogen
+136	3165-93-3	Nc1ccc(cc1C)Cl	Training	Carcinogen	Carcinogen
+137	95-79-4	Nc1cc(ccc1C)Cl	Training	Carcinogen	Carcinogen
+138	87-29-6	O=C(OCC=Cc1ccccc1)c2ccccc2(N)	Training	Carcinogen	Carcinogen
+139	102-50-1	O(c1ccc(N)c(c1)C)C	Training	Carcinogen	Carcinogen
+140	120-71-8	O(c1ccc(cc1(N))C)C	Training	Carcinogen	Carcinogen
+141	135-20-6	O=NN(O)c1ccccc1	Training	Carcinogen	Carcinogen
+142	80-08-0	O=S(=O)(c1ccc(N)cc1)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+143	72-55-9	c1cc(ccc1C(c2ccc(cc2)Cl)=C(Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+144	1163-19-5	O(c1c(c(c(c(c1Br)Br)Br)Br)Br)c2c(c(c(c(c2Br)Br)Br)Br)Br	Training	Carcinogen	Possible NON-Carcinogen
+145	95-80-7	Nc1ccc(c(N)c1)C	Training	Carcinogen	Carcinogen
+146	115-32-2	OC(c1ccc(cc1)Cl)(c2ccc(cc2)Cl)C(Cl)(Cl)Cl	Training	Carcinogen	Carcinogen
+147	105-55-5	N(C(NCC)=S)CC	Training	Carcinogen	Possible NON-Carcinogen
+148	91-93-0	O=C=Nc1ccc(cc1(OC))c2ccc(N=C=O)c(OC)c2	Training	Carcinogen	Carcinogen
+149	597-25-1	O=P(OC)(OC)N1CCOCC1	Training	Carcinogen	Carcinogen
+150	123-91-1	O1CCOCC1	Training	Carcinogen	Possible NON-Carcinogen
+151	1937-37-7	O=S(=O)(O)c5cc6cc(c(N=Nc1ccc(cc1)c3ccc(N=Nc2ccc(N)cc2(N))cc3)c(N)c6(c(O)c5(N=Nc4ccccc4)))S(=O)(=O)O	Training	Carcinogen	Carcinogen
+152	2602-46-2	O=C5C(=NNc1ccc(cc1)c2ccc(cc2)NN=C3C(=O)c4c(N)cc(cc4(C=C3S(=O)(=O)O))S(=O)(=O)O)C(=Cc6cc(cc(N)c56)S(=O)(=O)O)S(=O)(=O)O	Training	Carcinogen	Carcinogen
+153	16071-86-6	O=C(O)c5cc(N=Nc1ccc(cc1)c2ccc(cc2)NN=C4C(=O)C=CC(=NNc3cc(ccc3(O))S(=O)(=O)O)C4(=O))ccc5(O)	Training	Carcinogen	Carcinogen
+154	2475-45-8	O=C1c3c(N)ccc(N)c3(C(=O)c2c(N)ccc(N)c12)	Training	Carcinogen	Carcinogen
+155	134-72-5	OC(c1ccccc1)C(NC)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+156	76-44-8	C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+157	67-72-1	C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl	Training	Carcinogen	Carcinogen
+158	122-66-7	c1ccc(cc1)NNc2ccccc2	Training	Carcinogen	Carcinogen
+159	78-59-1	O=C1C=C(C)CC(C)(C)C1	Training	Carcinogen	Carcinogen
+160	303-34-4	O=C(OC2CCN1CC=C(COC(=O)C(O)(C(OC)C)C(O)(C)C)C12)C(=CC)C	Training	Carcinogen	Carcinogen
+161	58-89-9	C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+162	101-61-1	c1cc(ccc1N(C)C)Cc2ccc(cc2)N(C)C	Training	Carcinogen	Carcinogen
+163	129-15-7	O=C2c3ccccc3(C(=O)c1c2(ccc(c1[N+](=O)[O-])C))	Training	Carcinogen	Carcinogen
+164	90-94-8	O=C(c1ccc(cc1)N(C)C)c2ccc(cc2)N(C)C	Training	Carcinogen	Carcinogen
+165	2243-62-1	Nc1cccc2c(N)cccc12	Training	Carcinogen	Carcinogen
+166	139-94-6	O=C(Nc1ncc([N+](=O)[O-])s1)NCC	Training	Carcinogen	Carcinogen
+167	139-13-9	O=C(O)CN(CC(=O)O)CC(=O)O	Training	Carcinogen	Carcinogen
+168	602-87-9	O=[N+]([O-])c3ccc2c1c3(cccc1CC2)	Training	Carcinogen	Carcinogen
+169	1777-84-0	O=C(Nc1ccc(OCC)c(c1)[N+](=O)[O-])C	Training	Carcinogen	Carcinogen
+170	94-52-0	O=[N+]([O-])c1ccc2[nH]cnc2(c1)	Training	Carcinogen	Carcinogen
+171	99-59-2	O=[N+]([O-])c1ccc(OC)c(N)c1	Training	Carcinogen	Carcinogen
+172	5307-14-2	O=[N+]([O-])c1cc(N)ccc1(N)	Training	Carcinogen	Carcinogen
+173	156-10-5	O=Nc1ccc(cc1)Nc2ccccc2	Training	Carcinogen	Carcinogen
+174	99-55-8	O=[N+]([O-])c1ccc(c(N)c1)C	Training	Carcinogen	Carcinogen
+175	136-40-3	N(=Nc1ccc(nc1(N))N)c2ccccc2	Training	Carcinogen	Carcinogen
+176	3546-10-9	O=C(OC4CC3=CCC1C(CCC2(C)(C(CCC12)C(C)CCCC(C)C))C3(C)CC4)Cc5ccc(cc5)N(CCCl)CCCl	Training	Carcinogen	Carcinogen
+177	120-62-7	O=S(CCCCCCCC)C(C)Cc1ccc2OCOc2(c1)	Training	Carcinogen	Carcinogen
+178	1955-45-9	O=C1OCC1(C)C	Training	Carcinogen	Carcinogen
+179	366-70-1	O=C(NC(C)C)c1ccc(cc1)CNNC	Training	Carcinogen	Carcinogen
+180	105-11-3	O=Nc1ccc(cc1)NO	Training	Carcinogen	Carcinogen
+181	50-55-5	O=C(OC3CC4CN2CCc1c5ccc(OC)cc5([nH]c1C2CC4(C(C(=O)OC)C3(OC))))c6cc(OC)c(OC)c(OC)c6	Training	Carcinogen	Carcinogen
+182	100-42-5	C=Cc1ccccc1	Training	Carcinogen	Possible NON-Carcinogen
+183	1596-84-5	O=C(O)CCC(=O)NN(C)C	Training	Carcinogen	Carcinogen
+184	95-06-7	C=C(CSC(N(CC)CC)=S)Cl	Training	Carcinogen	Possible NON-Carcinogen
+185	127-69-5	O=S(=O)(Nc1onc(c1C)C)c2ccc(N)cc2	Training	NON-Carcinogen	Carcinogen
+186	79-34-5	C(C(Cl)Cl)(Cl)Cl	Training	Carcinogen	Carcinogen
+187	127-18-4	C(=C(Cl)Cl)(Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+188	961-11-5	O=P(OC(=CCl)c1cc(c(cc1Cl)Cl)Cl)(OC)OC	Training	Carcinogen	Carcinogen
+189	139-65-1	Nc1ccc(cc1)Sc2ccc(N)cc2	Training	Carcinogen	Carcinogen
+190	79-00-5	C(C(Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+191	88-06-2	Oc1c(cc(cc1Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+192	1582-09-8	O=[N+]([O-])c1cc(cc(c1N(CCC)CCC)[N+](=O)[O-])C(F)(F)F	Training	Carcinogen	Carcinogen
+193	137-17-7	Nc1cc(c(cc1C)C)C	Training	Carcinogen	Carcinogen
+194	2489-77-2	N(C(N(C)C)=S)C	Training	Carcinogen	Possible NON-Carcinogen
+195	126-72-7	O=P(OCC(CBr)Br)(OCC(CBr)Br)OCC(CBr)Br	Training	Carcinogen	Carcinogen
+196	100-40-3	C=CC1CC=CCC1	Training	Carcinogen	Carcinogen
+197	107-13-1	N#CC=C	Training	Carcinogen	Possible NON-Carcinogen
+198	542-88-1	O(CCl)CCl	Training	Carcinogen	Possible NON-Carcinogen
+199	107-30-2	O(C)CCl	Training	Carcinogen	Possible NON-Carcinogen
+200	75-21-8	O1CC1	Training	Carcinogen	Possible NON-Carcinogen
+201	148-82-3	O=C(O)C(N)Cc1ccc(cc1)N(CCCl)CCCl	Training	Carcinogen	Carcinogen
+202	92-67-1	Nc1ccc(cc1)c2ccccc2	Training	Carcinogen	Carcinogen
+203	494-03-1	c1ccc2cc(ccc2(c1))N(CCCl)CCCl	Training	Carcinogen	Carcinogen
+204	434-07-1	O=C1C(=CO)CC4(C)(C(C1)CCC3C4(CCC2(C)(C3(CCC2(O)(C)))))	Training	Carcinogen	Possible NON-Carcinogen
+205	56-23-5	C(Cl)(Cl)(Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+206	107-06-2	C(CCl)Cl	Training	Carcinogen	Carcinogen
+207	75-01-4	C=CCl	Training	Carcinogen	Possible NON-Carcinogen
+208	121-88-0	O=[N+]([O-])c1ccc(N)c(O)c1	Training	Carcinogen	Carcinogen
+209	100-51-6	OCc1ccccc1	Training	NON-Carcinogen	Possible NON-Carcinogen
+210	75-27-4	C(Cl)(Cl)Br	Training	Carcinogen	Possible NON-Carcinogen
+211	569-61-9	N=C1C=CC(C=C1)=C(c2ccc(N)cc2)c3ccc(N)cc3	Training	Carcinogen	Carcinogen
+212	106-46-7	c1cc(ccc1Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+213	75-09-2	C(Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+214	120-83-2	Oc1ccc(cc1Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+215	513-37-1	C(=C(C)C)Cl	Training	Carcinogen	Possible NON-Carcinogen
+216	106-88-7	O1CC1CC	Training	Carcinogen	Carcinogen
+217	54-31-9	O=C(O)c2cc(c(cc2(NCc1occc1))Cl)S(=O)(=O)N	Training	Carcinogen	Carcinogen
+218	5989-27-5	C=C(C)C1CC=C(C)CC1	Training	Carcinogen	Carcinogen
+219	24382-04-5	O=CCC=O	Training	Carcinogen	Possible NON-Carcinogen
+220	149-30-4	c1ccc2c(c1)NC(=S)S2	Training	Carcinogen	Carcinogen
+221	598-55-0	O=C(OC)N	Training	Carcinogen	Possible NON-Carcinogen
+222	80-62-6	O=C(OC)C(=C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+223	67-20-9	O=C2NC(=O)CN2(N=Cc1oc(cc1)[N+](=O)[O-])	Training	Carcinogen	Carcinogen
+224	59-87-0	O=C(N)NN=Cc1oc(cc1)[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+225	61-76-7	Oc1cccc(c1)C(O)CNC	Training	NON-Carcinogen	Possible NON-Carcinogen
+226	64-75-5	O=C3C(=C(O)N)C(=O)C4(O)(C(=O)C2=C(O)c1c(O)cccc1C(O)(C)C2CC4(C3N(C)C))	Training	NON-Carcinogen	Possible NON-Carcinogen
+227	75-25-2	C(Br)(Br)Br	Training	Carcinogen	Possible NON-Carcinogen
+228	79-06-1	O=C(N)C=C	Training	Carcinogen	Carcinogen
+229	759-73-9	O=NN(C(=O)N)CC	Training	Carcinogen	Carcinogen
+230	62-50-0	O=S(=O)(OCC)C	Training	Carcinogen	Carcinogen
+231	66-27-3	O=S(=O)(OC)C	Training	Carcinogen	Carcinogen
+232	52-24-4	N1(CC1)P(N2CC2)(N3CC3)=S	Training	Carcinogen	Possible NON-Carcinogen
+233	68-76-8	O=C1C=C(C(=O)C(=C1N2CC2)N3CC3)N4CC4	Training	Carcinogen	Carcinogen
+234	512-56-1	O=P(OC)(OC)OC	Training	Carcinogen	Carcinogen
+235	51-75-2	N(C)(CCCl)CCCl	Training	Carcinogen	Carcinogen
+236	126-85-2	[O-][N+](C)(CCCl)CCCl	Training	Carcinogen	Carcinogen
+237	446-86-6	O=[N+]([O-])c1ncn(c1Sc3ncnc2[nH]cnc23)C	Training	Carcinogen	Carcinogen
+238	60-13-9	NC(C)Cc1ccccc1	Training	NON-Carcinogen	Possible NON-Carcinogen
+239	91-20-3	c1ccc2ccccc2(c1)	Training	Carcinogen	Carcinogen
+240	58-33-3	c1ccc3c(c1)N(c2ccccc2S3)CC(N(C)C)C	Training	NON-Carcinogen	Carcinogen
+241	108-46-3	Oc1cccc(O)c1	Training	NON-Carcinogen	Possible NON-Carcinogen
+242	79-11-8	O=C(O)CCl	Training	NON-Carcinogen	Possible NON-Carcinogen
+243	1330-78-5	O=P(Oc1ccc(cc1)C)(Oc2ccc(cc2)C)Oc3ccc(cc3)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+244	120-32-1	Oc1ccc(cc1Cc2ccccc2)Cl	Training	Carcinogen	Possible NON-Carcinogen
+245	3296-90-0	OCC(CO)(CBr)CBr	Training	Carcinogen	Possible NON-Carcinogen
+246	75-65-0	OC(C)(C)C	Training	Carcinogen	Possible NON-Carcinogen
+247	119-84-6	O=C2Oc1ccccc1CC2	Training	Carcinogen	Possible NON-Carcinogen
+248	96-69-5	Oc1cc(c(cc1C(C)(C)C)Sc2cc(c(O)cc2C)C(C)(C)C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+249	396-01-0	n1c(nc(N)c2nc(c(nc12)N)c3ccccc3)N	Training	Carcinogen	Carcinogen
+250	57-41-0	O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3	Training	Carcinogen	Carcinogen
+251	1825-21-4	O(c1c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)C	Training	Carcinogen	Carcinogen
+252	74-83-9	CBr	Training	NON-Carcinogen	Possible NON-Carcinogen
+253	62-23-7	O=C(O)c1ccc(cc1)[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+254	115-96-8	O=P(OCCCl)(OCCCl)OCCCl	Training	Carcinogen	Carcinogen
+255	137-09-7	Oc1ccc(N)cc1(N)	Training	Carcinogen	Carcinogen
+256	91-64-5	O=C1Oc2ccccc2(C=C1)	Training	Carcinogen	Possible NON-Carcinogen
+257	91-23-6	O=[N+]([O-])c1ccccc1(OC)	Training	Carcinogen	Carcinogen
+258	75-07-0	O=CC	Training	Carcinogen	Possible NON-Carcinogen
+259	16568-02-8	O=CN(N=CC)C	Training	Carcinogen	Carcinogen
+260	60-35-5	O=C(N)C	Training	Carcinogen	Possible NON-Carcinogen
+261	18523-69-8	O=[N+]([O-])c1oc(cc1)c2nc(NN=C(C)C)sc2	Training	Carcinogen	Carcinogen
+262	127-06-0	ON=C(C)C	Training	Carcinogen	Possible NON-Carcinogen
+263	34627-78-6	O=C(OC(C=C)c1ccc2OCOc2(c1))C	Training	Carcinogen	Carcinogen
+264	65734-38-5	O=C(NNc1ccc(cc1)CO)C	Training	Carcinogen	Carcinogen
+265	4075-79-0	O=C(Nc1ccc(cc1)c2ccccc2)C	Training	Carcinogen	Carcinogen
+266	1078-38-2	O=C(NNC(=O)C)c1ccncc1	Training	Carcinogen	Carcinogen
+267	114-83-0	O=C(NNc1ccccc1)C	Training	Carcinogen	Carcinogen
+268	50-76-0	O=C6OC(C)C(NC(=O)c2ccc(c1OC=5C(=Nc12)C(C(=O)NC3C(=O)NC(C(=O)N4CCCC4(C(=O)N(C)CC(=O)N(C)C(C(=O)OC3(C))C(C)C))C(C)C)=C(N)C(=O)C=5C)C)C(=O)NC(C(=O)N7CCCC7(C(=O)N(C)CC(=O)N(C)C6C(C)C))C(C)C	Training	Carcinogen	Carcinogen
+269	1162-65-8	O=C4Oc2c(c(OC)cc1OC3OC=CC3(c12))C5=C4C(=O)CC5	Training	Carcinogen	Carcinogen
+270	67730-10-3	n2c(N)ccc3nc1ccccn1c23	Training	Carcinogen	Carcinogen
+271	52207-83-7	C=CCNN	Training	Carcinogen	Carcinogen
+272	97-56-3	N(=Nc1ccccc1C)c2ccc(N)c(c2)C	Training	Carcinogen	Carcinogen
+273	139-05-9	O=S(=O)(O)NC1CCCCC1	Training	Carcinogen	Possible NON-Carcinogen
+274	12663-46-6	O=C2NC(C(=O)N3CC(C(C3(C(=O)NC(C(=O)NC(C(=O)NC(c1ccccc1)C2)CO)CC))Cl)Cl)CO	Training	Carcinogen	Carcinogen
+275	553-53-7	O=C(NN)c1cnccc1	Training	Carcinogen	Carcinogen
+276	2425-06-1	O=C1N(C(=O)C2CC=CCC12)SC(C(Cl)Cl)(Cl)Cl	Training	Carcinogen	Carcinogen
+277	563-41-7	O=C(N)NN	Training	Carcinogen	Carcinogen
+278	103-03-7	O=C(N)NNc1ccccc1	Training	Carcinogen	Carcinogen
+279	143-50-0	O=C1C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+280	86-74-8	c1ccc3c(c1)[nH]c2ccccc23	Training	Carcinogen	Possible NON-Carcinogen
+281	126-07-8	O=C1c3c(OC)cc(OC)c(c3(OC12(C(OC)CC(=O)CC2(C))))Cl	Training	Carcinogen	Carcinogen
+282	56-49-5	c1ccc5c(c1)ccc3c5(cc2ccc(c4c2c3CC4)C)	Training	Carcinogen	Carcinogen
+283	13483-18-6	O(CCOCCl)CCl	Training	Carcinogen	Possible NON-Carcinogen
+284	39801-14-4	C13(C4(C2(C5(C(C1(C2(Cl)Cl)Cl)(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)	Training	Carcinogen	Carcinogen
+285	56894-91-8	O(Cc1ccc(cc1)COCCl)CCl	Training	Carcinogen	Possible NON-Carcinogen
+286	3778-73-2	O=P1(OCCCN1(CCCl))(NCCCl)	Training	Carcinogen	Carcinogen
+287	111-44-4	O(CCCl)CCCl	Training	Carcinogen	Possible NON-Carcinogen
+288	54-85-3	O=C(NN)c1ccncc1	Training	Carcinogen	Carcinogen
+289	16699-10-8	O=NN(c3ccc(C=Cc2ccnc1ccccc12)cc3)C	Training	Carcinogen	Carcinogen
+290	23950-58-5	O=C(NC(C#C)(C)C)c1cc(cc(c1)Cl)Cl	Training	Carcinogen	Carcinogen
+291	70-25-7	O=NN(C(=N[N+](=O)[O-])N)C	Training	Carcinogen	Carcinogen
+292	540-51-2	OCCBr	Training	Carcinogen	Possible NON-Carcinogen
+293	63412-06-6	O=NN(C(=O)c1ccccc1)C	Training	Carcinogen	Carcinogen
+294	3693-22-9	o2c1ccccc1c3cc(N)ccc23	Training	Carcinogen	Carcinogen
+295	55557-00-1	O=NN1CCN(N=O)CCC1	Training	Carcinogen	Carcinogen
+296	50-07-7	O=C(OCC4C=1C(=O)C(N)=C(C(=O)C=1N3CC2NC2C34(OC))C)N	Training	Carcinogen	Carcinogen
+297	N.A.	O=C2N(N=Cc1oc(cc1)[N+](=O)[O-])CCN2CCO	Training	Carcinogen	Carcinogen
+298	25013-16-5	Oc1ccc(OC)cc1C(C)(C)C	Training	Carcinogen	Possible NON-Carcinogen
+299	76180-96-6	n1cccc3c1ccc2c3(nc(N)n2C)	Training	Carcinogen	Carcinogen
+300	624-84-0	O=CNN	Training	Carcinogen	Carcinogen
+301	3570-75-0	O=CNNc1nc(cs1)c2oc(cc2)[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+302	109-84-2	OCCNN	Training	Carcinogen	Carcinogen
+303	78776-28-0	N(NCCCC)CCCC	Training	Carcinogen	Carcinogen
+304	2104-09-8	O=[N+]([O-])c1ccc(cc1)c2nc(N)sc2	Training	Carcinogen	Carcinogen
+305	56795-65-4	NNCCCC	Training	Carcinogen	Carcinogen
+306	3775-55-1	O=[N+]([O-])c1oc(cc1)c2nnc(o2)N	Training	Carcinogen	Carcinogen
+307	21928-82-5	O=NN(c3ncnc1c3(ncn1C2OC(CO)C(O)C2(O)))C	Training	Carcinogen	Carcinogen
+308	7722-84-1	OO	Training	Carcinogen	Possible NON-Carcinogen
+309	16120-70-0	O=CN(N)CCCC	Training	Carcinogen	Carcinogen
+310	21884-44-6	O=C3C1=C(O)c8c(O)cc(c(O)c8(C(=O)C16(C4C(=O)C2=C(O)c7c(O)cc(c(O)c7(C(=O)C25(C3C(O)C6(C5(C4(O))))))C)))C	Training	Carcinogen	Carcinogen
+311	3817-11-6	O=NN(CCCC)CCCCO	Training	Carcinogen	Carcinogen
+312	26049-70-7	O=[N+]([O-])c1ccc(cc1)c2nc(NN)sc2	Training	Carcinogen	Carcinogen
+313	140-79-4	O=NN1CCN(N=O)CC1	Training	Carcinogen	Carcinogen
+314	10589-74-9	O=NN(C(=O)N)CCCCC	Training	Carcinogen	Carcinogen
+315	4342-03-4	O=C(N)C1=NC=NC1(=NNN(C)C)	Training	Carcinogen	Carcinogen
+316	32852-21-4	O=CNNc1nc(cs1)C	Training	Carcinogen	Carcinogen
+317	628-02-4	O=C(N)CCCCC	Training	Carcinogen	Possible NON-Carcinogen
+318	50-00-0	O=C	Training	Carcinogen	Possible NON-Carcinogen
+319	57-14-7	NN(C)C	Training	Carcinogen	Possible NON-Carcinogen
+320	24365-47-7	O=CC(NC(=O)C(NC(=O)C(NC(=O)C)CC(C)C)CC(C)C)CCCN=C(N)N	Training	Carcinogen	Possible NON-Carcinogen
+321	61-94-9	O=C(OC)C1=CCCN(C)C1	Training	Carcinogen	Carcinogen
+322	55600-34-5	c1cc(cc(c1)Cl)c2cccc(c2)Cl	Training	Carcinogen	Possible NON-Carcinogen
+323	11096-82-5	c1cc(c(c(c1c2ccc(c(c2Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+324	3031-51-4	O=C2OC(CN2(N=Cc1oc(cc1)[N+](=O)[O-]))CN3CCOCC3	Training	Carcinogen	Carcinogen
+325	56654-52-5	O=NN(C(=O)NCCCC)CCCC	Training	Carcinogen	Carcinogen
+326	1068-57-1	O=C(NN)C	Training	Carcinogen	Carcinogen
+327	531-18-0	OCN(c1nc(nc(n1)N(CO)CO)N(CO)CO)CO	Training	Carcinogen	Possible NON-Carcinogen
+328	324-93-6	Fc1ccc(cc1)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+329	26049-69-4	O=[N+]([O-])c1oc(cc1)c2nc(NN(C)C)sc2	Training	Carcinogen	Carcinogen
+330	60391-92-6	O=NN(C(=O)N)CC(=O)O	Training	Carcinogen	Carcinogen
+331	25843-45-2	O=[N+]([N-]C)C	Training	Carcinogen	Carcinogen
+332	398-32-3	O=C(Nc1ccc(cc1)c2ccc(F)cc2)C	Training	Carcinogen	Carcinogen
+333	4164-28-7	O=[N+]([O-])N(C)C	Training	Carcinogen	Carcinogen
+334	305-03-3	O=C(O)CCCc1ccc(cc1)N(CCCl)CCCl	Training	Carcinogen	Carcinogen
+335	302-15-8	NNC	Training	Carcinogen	Possible NON-Carcinogen
+336	123-73-9	O=CC=CC	Training	Carcinogen	Possible NON-Carcinogen
+337	363-17-7	O=C(Nc2ccc3c1ccccc1Cc3(c2))C(F)(F)F	Training	Carcinogen	Carcinogen
+338	21626-89-1	O=C3c1ccccc1CN4C(=O)c2ccccc2CN34	Training	Carcinogen	Carcinogen
+339	100-44-7	c1ccc(cc1)CCl	Training	Carcinogen	Possible NON-Carcinogen
+340	87-68-3	C(C(=C(Cl)Cl)Cl)(=C(Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+341	4548-53-2	O=C2C(=NNc1cc(c(cc1C)C)S(=O)(=O)O)C=C(c3ccccc23)S(=O)(=O)O	Training	Carcinogen	Carcinogen
+342	915-67-3	O=C3C(=NNc1ccc(c2ccccc12)S(=O)(=O)O)c4ccc(cc4(C=C3S(=O)(=O)O))S(=O)(=O)O	Training	Carcinogen	Carcinogen
+343	5834-17-3	o2c1ccccc1c3cc(OC)c(N)cc23	Training	Carcinogen	Carcinogen
+344	21638-36-8	O=C2NC(C)CN2(N=Cc1oc(cc1)[N+](=O)[O-])	Training	Carcinogen	Carcinogen
+345	3564-09-8	O=C2C(=NNc1cc(c(cc1C)C)C)c3ccc(cc3(C=C2S(=O)(=O)O))S(=O)(=O)O	Training	Carcinogen	Carcinogen
+346	3761-53-3	O=C2C(=NNc1ccc(cc1C)C)c3cc(ccc3(C=C2S(=O)(=O)O))S(=O)(=O)O	Training	Carcinogen	Carcinogen
+347	5141-20-8	O=S(=O)([O-])c1ccc(cc1)C(c2ccc(cc2)N(Cc3cccc(c3)S(=O)(=O)O)CC)=C4C=CC(C=C4)=[N+](Cc5cccc(c5)S(=O)(=O)O)CC	Training	Carcinogen	Carcinogen
+348	149-17-7	O=C2C=CC(=CNNC(=O)c1ccncc1)C=C2(OC)	Training	Carcinogen	Carcinogen
+349	443-48-1	O=[N+]([O-])c1cnc(n1CCO)C	Training	Carcinogen	Carcinogen
+350	21416-87-5	O=C1NC(=O)CN(C1)CC(N2CC(=O)NC(=O)C2)C	Training	Carcinogen	Carcinogen
+351	110-57-6	C(=CCCl)CCl	Training	Carcinogen	Possible NON-Carcinogen
+352	4680-78-8	O=S(=O)([O-])c1cccc(c1)CN(c2ccc(cc2)[CH2+](c3ccccc3)c4ccc(cc4)N(Cc5cccc(c5)S(=O)(=O)[O-])CC)CC	Training	Carcinogen	Carcinogen
+353	5208-87-7	OC(C=C)c1ccc2OCOc2(c1)	Training	Carcinogen	Carcinogen
+354	16338-97-9	O=NN(CC=C)CC=C	Training	Carcinogen	Carcinogen
+355	57497-29-7	O=[N+]([N-]C)CC	Training	Carcinogen	Carcinogen
+356	16301-26-1	O=[N+]([N-]CC)CC	Training	Carcinogen	Carcinogen
+357	38514-71-5	O=[N+]([O-])c1oc(cc1)c2nc(N)sc2	Training	Carcinogen	Carcinogen
+358	637-07-0	O=C(OCC)C(Oc1ccc(cc1)Cl)(C)C	Training	Carcinogen	Carcinogen
+359	51410-44-7	OC(C=C)c1ccc(OC)cc1	Training	Carcinogen	Carcinogen
+360	63885-23-4	O=NN(C(=NCC)N)[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+361	758-17-8	O=CN(N)C	Training	Carcinogen	Carcinogen
+362	74920-78-8	O=CN(N)CC	Training	Carcinogen	Carcinogen
+363	26049-71-8	n1c(csc1NN)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+364	842-00-2	O=S(=O)(N)c2ccc(c1ccccc12)S(=O)(=O)CC	Training	Carcinogen	Carcinogen
+365	683-50-1	O=CC(C)Cl	Training	Carcinogen	Possible NON-Carcinogen
+366	590-21-6	C(=CCl)C	Training	Carcinogen	Possible NON-Carcinogen
+367	115-02-6	[N-]=[N+]=CC(=O)OCC(N)C(=O)O	Training	Carcinogen	Possible NON-Carcinogen
+368	5164-11-4	C=CCN(N)CC=C	Training	Carcinogen	Carcinogen
+369	10318-26-0	OC(CBr)C(O)C(O)C(O)CBr	Training	Carcinogen	Possible NON-Carcinogen
+370	38434-77-4	N#CN(N=O)CC	Training	Carcinogen	Carcinogen
+371	88-73-3	O=[N+]([O-])c1ccccc1Cl	Training	Carcinogen	Carcinogen
+372	613-94-5	O=C(NN)c1ccccc1	Training	Carcinogen	Carcinogen
+373	101-79-1	O(c1ccc(N)cc1)c2ccc(cc2)Cl	Training	Carcinogen	Carcinogen
+374	100-00-5	O=[N+]([O-])c1ccc(cc1)Cl	Training	Carcinogen	Carcinogen
+375	720-69-4	O=[N+]([O-])c1oc(cc1)c2nc(nc(n2)N)N	Training	Carcinogen	Carcinogen
+376	37087-94-8	O=C(O)c1cc(ccc1Cl)S(=O)(=O)N2CC(C)CC(C)C2	Training	Carcinogen	Carcinogen
+377	517-28-2	Oc4ccc2c(OCC3(O)(Cc1cc(O)c(O)cc1C23))c4(O)	Training	Carcinogen	Carcinogen
+378	65089-17-0	O=C(NCCO)CSc1nc(cc(n1)Cl)Nc2cccc(c2C)C	Training	Carcinogen	Carcinogen
+379	63019-65-8	O=C(N(c3cccc2c1ccccc1Cc23)C(=O)C)C	Training	Carcinogen	Carcinogen
+380	50892-23-4	O=C(O)CSc1nc(cc(n1)Cl)Nc2cccc(c2C)C	Training	Carcinogen	Carcinogen
+381	91-94-1	Nc1ccc(cc1Cl)c2ccc(N)c(c2)Cl	Training	Carcinogen	Carcinogen
+382	18413-14-4	NNCC	Training	Carcinogen	Carcinogen
+383	77094-11-2	n1cccc3c1cc(c2c3(nc(N)n2C))C	Training	Carcinogen	Carcinogen
+384	33979-15-6	O=C1OC2CC[N+]3(C)(CC=C(COC(=O)C(OC(=O)C)(C)C(C=C1(C=C))C)C23([O-]))	Training	Carcinogen	Carcinogen
+385	67730-11-4	n1c(N)ccc2nc3c(cccn3(c12))C	Training	Carcinogen	Carcinogen
+386	151-56-4	N1CC1	Training	Carcinogen	Possible NON-Carcinogen
+387	302-01-2	NN	Training	Carcinogen	Possible NON-Carcinogen
+388	57-39-6	O=P(N1CC1C)(N2CC2C)N3CC3C	Training	Carcinogen	Possible NON-Carcinogen
+389	306-37-6	N(NC)C	Training	Carcinogen	Possible NON-Carcinogen
+390	64-17-5	OCC	Training	Carcinogen	Possible NON-Carcinogen
+391	53-70-3	c1ccc5c(c1)ccc4cc3c(ccc2ccccc23)cc45	Training	Carcinogen	Carcinogen
+392	2303-16-4	O=C(N(C(C)C)C(C)C)SCC(=CCl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+393	938-73-8	O=C(N)c1ccccc1(OCC)	Training	Carcinogen	Carcinogen
+394	118-74-1	c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+395	72-54-8	c1cc(ccc1C(c2ccc(cc2)Cl)C(Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+396	53-95-2	O=C(N(O)c2ccc3c1ccccc1Cc3(c2))C	Training	Carcinogen	Carcinogen
+397	117-10-2	O=C1c3cccc(O)c3(C(=O)c2c(O)cccc12)	Training	Carcinogen	Carcinogen
+398	712-68-5	O=[N+]([O-])c1oc(cc1)c2nnc(N)s2	Training	Carcinogen	Carcinogen
+399	140-57-8	O=S(OCCCl)OC(C)COc1ccc(cc1)C(C)(C)C	Training	Carcinogen	Carcinogen
+400	60-56-0	C1=CN(C(N1)=S)C	Training	Carcinogen	Possible NON-Carcinogen
+401	50-28-2	Oc1ccc2c(c1)CCC3C2CCC4(C)(C(O)CCC34)	Training	Carcinogen	Possible NON-Carcinogen
+402	20570-96-1	NNCc1ccccc1	Training	Carcinogen	Possible NON-Carcinogen
+403	22571-95-5	O=C(OC2CCN1CC=C(COC(=O)C(O)(C(O)C)C(C)C)C12)C(=CC)C	Training	Carcinogen	Carcinogen
+404	13743-07-2	O=NN(C(=O)N)CCO	Training	Carcinogen	Carcinogen
+405	60-34-4	NNC	Training	Carcinogen	Possible NON-Carcinogen
+406	7422-80-2	NN(CCCC)CCCC	Training	Carcinogen	Carcinogen
+407	59-88-1	NNc1ccccc1	Training	Carcinogen	Carcinogen
+408	132-27-4	Oc1ccccc1c2ccccc2	Training	Carcinogen	Possible NON-Carcinogen
+409	83335-32-4	O=NN(CCCC(F)(F)F)CCCC(F)(F)F	Training	Carcinogen	Carcinogen
+410	128-44-9	O=C1N=S(=O)(O)c2ccccc12	Training	Carcinogen	Possible NON-Carcinogen
+411	75896-33-2	O=NN(CCO)CC(O)C	Training	Carcinogen	Carcinogen
+412	108-05-4	O=C(OC=C)C	Training	Carcinogen	Possible NON-Carcinogen
+413	36133-88-7	O=C(NCc1nc(no1)c2oc(cc2)[N+](=O)[O-])C	Training	Carcinogen	Carcinogen
+414	24554-26-5	O=CNc1nc(cs1)c2oc(cc2)[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+415	18559-94-9	Oc1ccc(cc1CO)C(O)CNC(C)(C)C	Training	Carcinogen	Possible NON-Carcinogen
+416	2578-75-8	O=C(Nc2nnc(c1oc(cc1)[N+](=O)[O-])s2)C	Training	Carcinogen	Carcinogen
+417	26308-28-1	O=C1Nc3c(nn(c3(C(=NC1)c2ccccc2))CC)C	Training	Carcinogen	Possible NON-Carcinogen
+418	531-82-8	O=C(Nc1nc(cs1)c2oc(cc2)[N+](=O)[O-])C	Training	Carcinogen	Carcinogen
+419	91308-69-9	O=NN(CC=C)CCO	Training	Carcinogen	Carcinogen
+420	75198-31-1	O=[N+]([O-])c1oc(cc1)c3cnc2ccccn23	Training	Carcinogen	Carcinogen
+421	91308-71-3	O=NN(CC=C)CC(=O)C	Training	Carcinogen	Carcinogen
+422	51325-35-0	O=C(Nc1nc(nc(n1)c2oc(cc2)[N+](=O)[O-])NC(=O)C)C	Training	Carcinogen	Carcinogen
+423	64005-62-5	O=NN(C(=O)OCC)CCCCC	Training	Carcinogen	Carcinogen
+424	4812-22-0	O=[N+]([O-])C(=CCC)CC	Training	Carcinogen	Carcinogen
+425	51542-33-7	O=NN(C(=O)Nc2nc1ccccc1s2)C	Training	Carcinogen	Carcinogen
+426	77-46-3	O=C(Nc1ccc(cc1)S(=O)(=O)c2ccc(cc2)NC(=O)C)C	Training	Carcinogen	Carcinogen
+427	924-16-3	O=NN(CCCC)CCCC	Training	Carcinogen	Carcinogen
+428	55-18-5	O=NN(CC)CC	Training	Carcinogen	Carcinogen
+429	1116-54-7	O=NN(CCO)CCO	Training	Carcinogen	Carcinogen
+430	122-60-1	O(c1ccccc1)CC2OC2	Training	Carcinogen	Carcinogen
+431	62-75-9	O=NN(C)C	Training	Carcinogen	Carcinogen
+432	621-64-7	O=NN(CCC)CCC	Training	Carcinogen	Carcinogen
+433	17608-59-2	O=NN(C)C(C)C(O)c1ccccc1	Training	Carcinogen	Carcinogen
+434	91308-70-2	O=NN(CC=C)CC(O)C	Training	Carcinogen	Carcinogen
+435	20917-49-1	O=NN1CCCCCCC1	Training	Carcinogen	Carcinogen
+436	88208-16-6	O=NN(CC=C)CC(O)CO	Training	Carcinogen	Carcinogen
+437	16219-98-0	O=NN(c1ncccc1)C	Training	Carcinogen	Carcinogen
+438	1133-64-8	O=NN2CCCCC2(c1cnccc1)	Training	Carcinogen	Carcinogen
+439	68107-26-6	O=NN(C)CCCCCCCCCCC	Training	Carcinogen	Carcinogen
+440	53609-64-6	O=NN(CC(O)C)CC(O)C	Training	Carcinogen	Carcinogen
+441	156-51-4	NNCCc1ccccc1	Training	Carcinogen	Carcinogen
+442	60599-38-4	O=NN(CC(=O)C)CC(=O)C	Training	Carcinogen	Carcinogen
+443	100-75-4	O=NN1CCCCC1	Training	Carcinogen	Carcinogen
+444	13292-46-1	O=C(OC3C(C)C(OC)C=COC1(Oc4c(C1(=O))c5c(O)c(C=NN2CCN(C)CC2)c(NC(=O)C(=CC=CC(C)C(O)C(C)C(O)C3(C))C)c(O)c5(c(O)c4C))C)C	Training	Carcinogen	Carcinogen
+445	611-23-4	O=Nc1ccccc1C	Training	Carcinogen	Carcinogen
+446	18883-66-4	O=NN(C(=O)NC1C(O)OC(CO)C(O)C1(O))C	Training	Carcinogen	Carcinogen
+447	96806-34-7	O=NN(C(=O)NCCCl)CCO	Training	Carcinogen	Carcinogen
+448	17673-25-5	O=C1C(=CC3C1(O)CC(=CC2C4C(O)(C(O)C(C)C23(O))C4(C)(C))CO)C	Training	Carcinogen	Carcinogen
+449	55556-92-8	O=NN1CC=CCC1	Training	Carcinogen	Carcinogen
+450	96-09-3	O1CC1c2ccccc2	Training	Carcinogen	Carcinogen
+451	89911-78-4	O=NN(CCO)CC(O)CO	Training	Carcinogen	Carcinogen
+452	92177-50-9	O=NC(O)C(O)CNCC(=O)C	Training	Carcinogen	Carcinogen
+453	303-47-9	O=C1OC(C)Cc2c1c(O)c(cc2Cl)C(=O)NC(C(=O)O)Cc3ccccc3	Training	Carcinogen	Carcinogen
+454	38777-13-8	O=NN(C(=O)Oc1ccccc1(OC(C)C))C	Training	Carcinogen	Carcinogen
+455	7227-91-0	N(=NN(C)C)c1ccccc1	Training	Carcinogen	Carcinogen
+456	684-93-5	O=NN(C(=O)N)C	Training	Carcinogen	Carcinogen
+457	13752-51-7	O2CCN(C(=S)SN1CCOCC1)CC2	Training	Carcinogen	Carcinogen
+458	55090-44-3	O=NN(C)CCCCCCCCCCCC	Training	Carcinogen	Carcinogen
+459	8001-50-1	C=C1C(C)(C)C2(C(C1(C(C2(Cl)Cl)(Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+460	13256-11-6	O=NN(C)CCc1ccccc1	Training	Carcinogen	Carcinogen
+461	1120-71-4	O=S1(=O)(OCCC1)	Training	Carcinogen	Carcinogen
+462	29069-24-7	O=C1C=CC4(C(=C1)CCC3C5CCC(O)(C(=O)COC(=O)CCCc2ccc(cc2)N(CCCl)CCCl)C5(C)(CC(O)C34))(C)	Training	Carcinogen	Carcinogen
+463	117-39-5	O=C1C(O)=C(Oc2cc(O)cc(O)c12)c3ccc(O)c(O)c3	Training	Carcinogen	Carcinogen
+464	40580-89-0	O=NN1CCCCCCCCCCCC1	Training	Carcinogen	Carcinogen
+465	932-83-2	O=NN1CCCCCC1	Training	Carcinogen	Carcinogen
+466	137-30-4	C(N(C)C)(=S)S	Training	Carcinogen	Possible NON-Carcinogen
+467	86451-37-8	O=NN(C)CC(O)CO	Training	Carcinogen	Carcinogen
+468	78246-24-9	O=NN2CCCC2(c1ccc[n+]([O-])c1)	Training	Carcinogen	Carcinogen
+469	930-55-2	O=NN1CCCC1	Training	Carcinogen	Carcinogen
+470	82018-90-4	O=NN(CC)CC(F)(F)F	Training	Carcinogen	Carcinogen
+471	1119-68-2	N([NH3+])CCCCC	Training	Carcinogen	Carcinogen
+472	29929-77-9	O=NN2c1ccccc1C(=CC2(C)C)C	Training	Carcinogen	Carcinogen
+473	60102-37-6	O=C2OCC3=CCN(C)CCC(OC(=O)C1(OC1(C))(CC(C)C2(O)C))C3(=O)	Training	Carcinogen	Carcinogen
+474	16813-36-8	O=NN1C(=O)NC(=O)CC1	Training	Carcinogen	Carcinogen
+475	62-44-2	O=C(Nc1ccc(OCC)cc1)C	Training	Carcinogen	Carcinogen
+476	937-25-7	O=NN(c1ccc(F)cc1)C	Training	Carcinogen	Carcinogen
+477	60-80-0	O=C1C=C(N(N1c2ccccc2)C)C	Training	Carcinogen	Carcinogen
+478	10048-13-2	O=C1c5c(O)cccc5(Oc3c1c(OC)cc2OC4OC=CC4(c23))	Training	Carcinogen	Carcinogen
+479	23031-25-6	Oc1cc(O)cc(c1)C(O)CNC(C)(C)C	Training	Carcinogen	Possible NON-Carcinogen
+480	614-95-9	O=NN(C(=O)OCC)CC	Training	Carcinogen	Carcinogen
+481	614-00-6	O=NN(c1ccccc1)C	Training	Carcinogen	Carcinogen
+482	13010-07-6	O=NN(C(=N[N+](=O)[O-])N)CCC	Training	Carcinogen	Carcinogen
+483	96806-35-8	O=NN(C(=O)NCCCl)CC(O)C	Training	Carcinogen	Carcinogen
+484	77337-54-3	O=CN(N)CCC	Training	Carcinogen	Carcinogen
+485	760-60-1	O=NN(C(=O)N)CC(C)C	Training	Carcinogen	Carcinogen
+486	56795-66-5	N([NH3+])CCC	Training	Carcinogen	Carcinogen
+487	615-28-1	Nc1ccccc1(N)	Training	Carcinogen	Carcinogen
+488	89911-79-5	O=NN(CC(O)C)CC(O)CO	Training	Carcinogen	Carcinogen
+489	75881-20-8	O=NN(C)CCCCCCCCCCCCCC	Training	Carcinogen	Carcinogen
+490	50-06-6	O=C2NC(=O)C(c1ccccc1)(C(=O)N2)CC	Training	Carcinogen	Carcinogen
+491	51-52-5	O=C1C=C(NC(N1)=S)CCC	Training	Carcinogen	Carcinogen
+492	63-92-3	O(c1ccccc1)CC(N(Cc2ccccc2)CCCl)C	Training	Carcinogen	Carcinogen
+493	100-41-4	c1ccc(cc1)CC	Training	Carcinogen	Possible NON-Carcinogen
+494	607-35-2	O=[N+]([O-])c2cccc1cccnc12	Training	Carcinogen	Carcinogen
+495	125-33-7	O=C2NCNC(=O)C2(c1ccccc1)CC	Training	Carcinogen	Carcinogen
+496	93-15-2	O(c1ccc(cc1(OC))CC=C)C	Training	Carcinogen	Carcinogen
+497	98-00-0	OCc1occc1	Training	Carcinogen	Carcinogen
+498	111-76-2	OCCOCCCC	Training	Carcinogen	Possible NON-Carcinogen
+499	110-86-1	n1ccccc1	Training	Carcinogen	Carcinogen
+500	111-42-2	OCCNCCO	Training	Carcinogen	Carcinogen
+501	53757-28-1	O=[N+]([O-])c1oc(cc1)c2ncsc2	Training	Carcinogen	Carcinogen
+502	1402-68-2	O=C4Oc2c(c(OC)cc1OC3OC=CC3(c12))C5=C4C(=O)OCC5	Training	Carcinogen	Carcinogen
+503	64039-27-6	OCC3OC(n2cnc1C(N=C(N)Nc12)=S)CC3(O)	Training	Carcinogen	Carcinogen
+504	7411-49-6	Nc1ccc(cc1(N))c2ccc(N)c(N)c2	Training	Carcinogen	Carcinogen
+505	63886-77-1	Fc1c(F)c(N)c(F)c(N)c1(F)	Training	Carcinogen	Carcinogen
+506	141-90-2	O=C1C=CNC(N1)=S	Training	Carcinogen	Carcinogen
+507	298-81-7	O=C1Oc2c(OC)c3occc3(cc2(C=C1))	Training	Carcinogen	Carcinogen
+508	109-99-9	O1CCCC1	Training	Carcinogen	Possible NON-Carcinogen
+509	6334-11-8	c1c(cc(c(c1C)[NH3+])C)C	Training	Carcinogen	Carcinogen
+510	924-42-5	O=C(C=C)NCO	Training	Carcinogen	Carcinogen
+511	5634-39-9	OCC1OC(OC1)C(C)I	Training	Carcinogen	Possible NON-Carcinogen
+512	868-85-9	O=[P+](OC)OC	Training	Carcinogen	Carcinogen
+513	643-22-1	O=C3OC(CC)C(O)(C)C(O)C(C(=O)C(C)CC(O)(C)C(OC1OC(C)CC(C1(O))[NH+](C)C)C(C)C(OC2OC(C)C(O)C(OC)(C)C2)C3C)C	Training	NON-Carcinogen	Carcinogen
+514	121-69-7	c1ccc(cc1)N(C)C	Training	Carcinogen	Carcinogen
+515	62-55-5	NC(C)=S	Training	Carcinogen	Possible NON-Carcinogen
+516	55566-30-8	OC[P+](CO)(CO)CO	Training	NON-Carcinogen	Possible NON-Carcinogen
+517	74-96-4	CCBr	Training	Carcinogen	Possible NON-Carcinogen
+518	593-60-2	C=CBr	Training	Carcinogen	Possible NON-Carcinogen
+519	62-56-6	NC(N)=S	Training	Carcinogen	Possible NON-Carcinogen
+520	540-23-8	Nc1ccc(cc1)C	Training	Carcinogen	Carcinogen
+521	132-98-9	O=C(O)C3N2C(=O)C(NC(=O)COc1ccccc1)C2SC3(C)(C)	Training	NON-Carcinogen	Possible NON-Carcinogen
+522	622-51-5	O=C(N)Nc1ccc(cc1)C	Training	Carcinogen	Carcinogen
+523	99-57-0	O=[N+]([O-])c1ccc(O)c(N)c1	Training	Carcinogen	Carcinogen
+524	634-93-5	Nc1c(cc(cc1Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+525	638-03-9	Nc1cccc(c1)C	Training	Carcinogen	Carcinogen
+526	75-00-3	CCCl	Training	Carcinogen	Possible NON-Carcinogen
+527	88-19-7	O=S(=O)(N)c1ccccc1C	Training	Carcinogen	Possible NON-Carcinogen
+528	2425-85-6	O=C3C=Cc1ccccc1C3(=NNc2ccc(cc2[N+](=O)[O-])C)	Training	Carcinogen	Carcinogen
+529	1313-27-5	O=[Mo](=O)=O	Training	Carcinogen	Possible NON-Carcinogen
+530	50-33-9	O=C3N(c1ccccc1)N(c2ccccc2)C(=O)C3CCCC	Training	Carcinogen	Carcinogen
+531	110-00-9	o1cccc1	Training	Carcinogen	Carcinogen
+532	271-89-6	o1ccc2ccccc12	Training	Carcinogen	Carcinogen
+533	102-71-6	OCCN(CCO)CCO	Training	Carcinogen	Carcinogen
+534	20325-40-0	O(c1cc(ccc1(N))c2ccc(N)c(OC)c2)C	Training	Carcinogen	Carcinogen
+535	6459-94-5	O=C5C=Cc6cc(cc(c6(C5(=NNc1ccc(cc1C)c4ccc(N=Nc3ccc(OS(=O)(=O)c2ccc(cc2)C)cc3)c(c4)C)))S(=O)(=O)O)S(=O)(=O)O	Training	Carcinogen	Carcinogen
+536	556-52-5	OCC1OC1	Training	Carcinogen	Carcinogen
+537	542-56-3	O=NOCC(C)C	Training	Carcinogen	Possible NON-Carcinogen
+538	106-92-3	O(CC=C)CC1OC1	Training	Carcinogen	Carcinogen
+539	25013-15-4	C=Cc1cccc(c1)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+540	2698-41-1	N#CC(C#N)=Cc1ccccc1Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+541	100-52-7	O=Cc1ccccc1	Training	Carcinogen	Possible NON-Carcinogen
+542	389-08-2	O=C(O)C1=CN(c2nc(ccc2(C1(=O)))C)CC	Training	Carcinogen	Carcinogen
+543	81-49-2	O=C1c3ccccc3(C(=O)c2c1c(N)c(cc2Br)Br)	Training	Carcinogen	Carcinogen
+544	98-85-1	OC(c1ccccc1)C	Training	Carcinogen	Possible NON-Carcinogen
+545	298-59-9	O=C(OC)C(c1ccccc1)C2NCCCC2	Training	Carcinogen	Carcinogen
+546	75-52-5	O=[N+]([O-])C	Training	Carcinogen	Possible NON-Carcinogen
+547	7336-20-1	O=S(=O)(O)c2cc(N)ccc2(C=Cc1ccc(N)cc1S(=O)(=O)O)	Training	NON-Carcinogen	Carcinogen
+548	77-09-8	O=C3OC(c1ccc(O)cc1)(c2ccc(O)cc2)c4ccccc34	Training	Carcinogen	Possible NON-Carcinogen
+549	123-31-9	Oc1ccc(O)cc1	Training	Carcinogen	Possible NON-Carcinogen
+550	57-66-9	O=C(O)c1ccc(cc1)S(=O)(=O)N(CCC)CCC	Training	Carcinogen	Carcinogen
+551	2429-74-5	O=S(=O)(O)c5cc(N)c6c(O)c(N=Nc1ccc(cc1(OC))c4ccc(N=Nc2c(O)c3c(N)cc(cc3(cc2S(=O)(=O)O))S(=O)(=O)O)c(OC)c4)c(cc6(c5))S(=O)(=O)O	Training	Carcinogen	Carcinogen
+552	8003-22-3	O=C1c4ccccc4(C(=O)C1c2nc3ccccc3(cc2))	Training	Carcinogen	Carcinogen
+553	64091-91-4	O=NN(C)CCCC(=O)c1cnccc1	Training	Carcinogen	Carcinogen
+554	98-01-1	O=Cc1occc1	Training	Carcinogen	Carcinogen
+555	509-14-8	O=[N+]([O-])C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]	Training	Carcinogen	Possible NON-Carcinogen
+556	612-82-8	Nc1ccc(cc1C)c2ccc(N)c(c2)C	Training	Carcinogen	Carcinogen
+557	604-75-1	O=C1Nc3ccc(cc3(C(=NC1(O))c2ccccc2))Cl	Training	Carcinogen	Carcinogen
+558	67774-32-7	c2c(c1cc(c(cc1Br)Br)Br)c(cc(c2Br)Br)Br	Training	Carcinogen	Possible NON-Carcinogen
+559	76-57-3	OC1C=CC5C4N(C)CCC25(c3c(OC12)c(OC)ccc3C4)	Training	NON-Carcinogen	Carcinogen
+560	96-18-4	C(C(CCl)Cl)Cl	Training	Carcinogen	Carcinogen
+561	77-47-4	C=1(C(=C(C(C=1Cl)(Cl)Cl)Cl)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+562	147-47-7	c1ccc2c(c1)NC(C=C2C)(C)C	Training	Carcinogen	Carcinogen
+563	133-06-2	O=C1N(C(=O)C2CC=CCC12)SC(Cl)(Cl)Cl	Training	Carcinogen	Carcinogen
+564	70-30-4	Oc1c(cc(c(c1Cc2c(O)c(cc(c2Cl)Cl)Cl)Cl)Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+565	6358-85-6	O=C(Nc1ccccc1)C(N=Nc2ccc(cc2Cl)c4ccc(N=NC(C(=O)Nc3ccccc3)C(=O)C)c(c4)Cl)C(=O)C	Training	NON-Carcinogen	Carcinogen
+566	320-67-2	O=C1N=C(N=CN1C2OC(CO)C(O)C2(O))N	Training	Carcinogen	Possible NON-Carcinogen
+567	133-90-4	O=C(O)c1cc(cc(N)c1Cl)Cl	Training	Carcinogen	Carcinogen
+568	7008-42-6	O=C2c1ccccc1N(c3c4C=CC(Oc4(cc(OC)c23))(C)C)C	Training	Carcinogen	Carcinogen
+569	1836-75-5	O=[N+]([O-])c2ccc(Oc1ccc(cc1Cl)Cl)cc2	Training	Carcinogen	Carcinogen
+570	13366-73-9	O1C2C1C3C4C2C5C3C6(C4(C(C5(C6(Cl)Cl)Cl)Cl)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+571	22966-79-6	O=C(Oc1ccc2c(c1)CCC4C2CCC5(C)(C(OC(=O)Cc3ccc(cc3)N(CCCl)CCCl)CCC45))Cc6ccc(cc6)N(CCCl)CCCl	Training	Carcinogen	Carcinogen
+572	140-56-7	O=S(=O)(O)N=Nc1ccc(cc1)N(C)C	Training	NON-Carcinogen	Carcinogen
+573	128-66-5	O=C3c1ccccc1c4ccc5C(=O)c2ccccc2c6ccc3c4c56	Training	Carcinogen	Carcinogen
+574	75-69-4	FC(Cl)(Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+575	756-79-6	O=P(OC)(OC)C	Training	Carcinogen	Carcinogen
+576	148-18-5	C(N(CC)CC)(=S)S	Training	NON-Carcinogen	Possible NON-Carcinogen
+577	113-92-8	n1ccccc1C(c2ccc(cc2)Cl)CC[NH+](C)C	Training	NON-Carcinogen	Carcinogen
+578	77-79-2	O=S1(=O)(CC=CC1)	Training	NON-Carcinogen	Possible NON-Carcinogen
+579	76-87-9	c1ccc(cc1)[Sn+](c2ccccc2)c3ccccc3	Training	NON-Carcinogen	Possible NON-Carcinogen
+580	7446-34-6	S=[Se]	Training	Carcinogen	Possible NON-Carcinogen
+581	309-00-2	C1=CC2CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+582	26148-68-5	n1c(N)ccc3c1[nH]c2ccccc23	Training	Carcinogen	Carcinogen
+583	869-01-2	O=NN(C(=O)N)CCCC	Training	Carcinogen	Carcinogen
+584	50-29-3	c1cc(ccc1C(c2ccc(cc2)Cl)C(Cl)(Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+585	68-89-3	O=C1C(=C(N(N1c2ccccc2)C)C)N(C)CS(=O)(=O)O	Training	Carcinogen	Carcinogen
+586	140-67-0	O(c1ccc(cc1)CC=C)C	Training	Carcinogen	Carcinogen
+587	135-23-9	n1ccccc1N(Cc2cccs2)CCN(C)C	Training	Carcinogen	Carcinogen
+588	838-88-0	Nc1ccc(cc1C)Cc2ccc(N)c(c2)C	Training	Carcinogen	Carcinogen
+589	33868-17-6	N#CN(N=O)C	Training	Carcinogen	Carcinogen
+590	63642-17-1	O=NN(C(=O)NCCCC(N)C(=O)O)C	Training	Carcinogen	Carcinogen
+591	99-80-9	O=Nc1ccc(cc1)N(N=O)C	Training	Carcinogen	Carcinogen
+592	315-22-0	O=C1OC3CCN2CC=C(COC(=O)C(O)(C)C(O)(C)C1C)C23	Training	Carcinogen	Carcinogen
+593	75411-83-5	O=NN(C)CC(O)C	Training	Carcinogen	Carcinogen
+594	61034-40-0	O=NN2CC(N(C(=O)c1ccccc1)C(C)C2)C	Training	Carcinogen	Carcinogen
+595	75881-22-0	O=NN(C)CCCCCCCCCC	Training	Carcinogen	Carcinogen
+596	42011-48-3	O=C(Nc1nc(cs1)c2oc(cc2)[N+](=O)[O-])C(F)(F)F	Training	Carcinogen	Carcinogen
+597	116355-83-0	O=C(O)CC(C(=O)O)CC(=O)OC(CC(C)CC(O)CCCCC(O)CC(O)C(N)C)C(OC(=O)CC(C(=O)O)CC(=O)O)C(C)CCCC	Training	Carcinogen	Carcinogen
+598	302-17-0	OC(O)C(Cl)(Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+599	1314-62-1	O=[V](=O)O[V](=O)=O	Training	Carcinogen	Possible NON-Carcinogen
+600	107-02-8	O=CC=C	Training	NON-Carcinogen	Possible NON-Carcinogen
+601	50594-66-6	O=C(O)c2cc(Oc1ccc(cc1Cl)C(F)(F)F)ccc2[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+602	628-94-4	O=C(N)CCCCC(=O)N	Training	NON-Carcinogen	Possible NON-Carcinogen
+603	3688-53-7	O=C(N)C(=Cc1oc(cc1)[N+](=O)[O-])c2occc2	Training	Carcinogen	Carcinogen
+604	29611-03-8	O=C4Oc2c(c(OC)cc1OC3OC=CC3(c12))C5=C4C(O)CC5	Training	Carcinogen	Carcinogen
+605	760-56-5	O=NN(C(=O)N)CC=C	Training	Carcinogen	Carcinogen
+606	28754-68-9	O=[N+]([O-])c2oc(C=Cc1noc(n1)N)cc2	Training	Carcinogen	Carcinogen
+607	1912-24-9	n1c(nc(nc1NC(C)C)Cl)NCC	Training	Carcinogen	Possible NON-Carcinogen
+608	17697-55-1	O=[N+]([N-]CCC)CCC	Training	Carcinogen	Carcinogen
+609	88133-11-3	n2cnn3c(nc(c1ccccc1)c(c23)CCOCC)N	Training	Carcinogen	Carcinogen
+610	98-07-7	c1ccc(cc1)C(Cl)(Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+611	2519-30-4	O=C4C(=NNc2ccc(N=Nc1ccc(cc1)S(=O)(=O)O)c3ccc(cc23)S(=O)(=O)O)C(=Cc5c(ccc(NC(=O)C)c45)S(=O)(=O)O)S(=O)(=O)O	Training	NON-Carcinogen	Carcinogen
+612	51333-22-3	O=C1C=CC4(C(=C1)CCC3C5CC2OC(OC2(C(=O)CO)C5(C)(CC(O)C34))CCC)(C)	Training	Carcinogen	Carcinogen
+613	331-39-5	O=C(O)C=Cc1ccc(O)c(O)c1	Training	Carcinogen	Possible NON-Carcinogen
+614	58-08-2	O=C2c1c(ncn1C)N(C(=O)N2C)C	Training	NON-Carcinogen	Carcinogen
+615	404-86-4	O=C(NCc1ccc(O)c(OC)c1)CCCCC=CC(C)C	Training	Carcinogen	Carcinogen
+616	120-80-9	Oc1ccccc1(O)	Training	Carcinogen	Possible NON-Carcinogen
+617	75-88-7	FC(F)(F)CCl	Training	Carcinogen	Possible NON-Carcinogen
+618	107-20-0	O=CCCl	Training	Carcinogen	Possible NON-Carcinogen
+619	75-45-6	FC(F)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+620	593-70-4	FCCl	Training	Carcinogen	Possible NON-Carcinogen
+621	10473-70-8	O=C(OC(C#C)(c1ccccc1)c2ccc(cc2)Cl)N	Training	Carcinogen	Carcinogen
+622	54749-90-5	O=NN(C(=O)NC1C(O)OC(CO)C(O)C1(O))CCCl	Training	Carcinogen	Carcinogen
+623	52214-84-3	O=C(O)C(Oc1ccc(cc1)C2CC2(Cl)Cl)(C)C	Training	Carcinogen	Carcinogen
+624	518-75-2	O=C2C1=COC(C)C(C1=C(C(=O)C2(=C(O)O))C)C	Training	Carcinogen	Carcinogen
+625	88107-10-2	O=C(c2ccc(OCCCCc1nnn[nH]1)c(c2(O))CCC)C	Training	Carcinogen	Carcinogen
+626	53-43-0	O=C2CCC3C4CC=C1CC(O)CCC1(C)C4(CCC23(C))	Training	Carcinogen	Carcinogen
+627	79-43-6	O=C(O)C(Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+628	75-71-8	FC(F)(Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+629	628-36-4	O=CNNC=O	Training	Carcinogen	Carcinogen
+630	3276-41-3	O=NN1OCC=CC1	Training	Carcinogen	Carcinogen
+631	94-58-6	O1c2ccc(cc2(OC1))CCC	Training	Carcinogen	Carcinogen
+632	5803-51-0	O(c2ccc(OC)c(C=Cc1ccc(N)cc1)c2)C	Training	Carcinogen	Carcinogen
+633	65176-75-2	O=C1c5c(O)cc(OC)c(OC)c5(Oc3c1c(OC)cc2OC4OC=CC4(c23))	Training	Carcinogen	Carcinogen
+634	59-35-8	O=[N+]([O-])c1oc(cc1)c2nc(cc(n2)C)C	Training	Carcinogen	Carcinogen
+635	551-92-8	O=[N+]([O-])c1cnc(n1C)C	Training	Carcinogen	Carcinogen
+636	57-97-6	c1ccc2c(c1)ccc4c2c(c3ccccc3c4C)C	Training	Carcinogen	Carcinogen
+637	606-20-2	O=[N+]([O-])c1cccc(c1C)[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+638	13256-06-9	O=NN(CCCCC)CCCCC	Training	Carcinogen	Carcinogen
+639	74-31-7	c1ccc(cc1)Nc2ccc(cc2)Nc3ccccc3	Training	NON-Carcinogen	Carcinogen
+640	28322-02-3	O=C(Nc1cccc3c1c2ccccc2C3)C	Training	NON-Carcinogen	Carcinogen
+641	680-31-9	O=P(N(C)C)(N(C)C)N(C)C	Training	Carcinogen	Possible NON-Carcinogen
+642	50-18-0	O=P1(OCCCN1)N(CCCl)CCCl	Training	Carcinogen	Carcinogen
+643	57-50-1	OCC2OC(OC1(OC(CO)C(O)C1(O))(CO))C(O)C(O)C2(O)	Training	NON-Carcinogen	Possible NON-Carcinogen
+644	492-80-8	N=C(c1ccc(cc1)N(C)C)c2ccc(cc2)N(C)C	Training	Carcinogen	Carcinogen
+645	140-11-4	O=C(OCc1ccccc1)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+646	19408-74-3	O1c3cc(c(c(c3(Oc2c1cc(c(c2Cl)Cl)Cl))Cl)Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+647	87-62-7	Nc1c(cccc1C)C	Training	Carcinogen	Carcinogen
+648	126-92-1	O=S(=O)([O-])OCC(CC)CCCC	Training	Carcinogen	Carcinogen
+649	107-07-3	OCCCl	Training	NON-Carcinogen	Possible NON-Carcinogen
+650	105-87-3	O=C(OCC=C(C)CCC=C(C)C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+651	75-35-4	C=C(Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+652	128-37-0	Oc1c(cc(cc1C(C)(C)C)C)C(C)(C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+653	536-33-4	n1ccc(cc1CC)C(N)=S	Training	NON-Carcinogen	Carcinogen
+654	15356-70-4	OC1CC(C)CCC1(C(C)C)	Training	NON-Carcinogen	Possible NON-Carcinogen
+655	315-18-4	O=C(Oc1cc(c(c(c1)C)N(C)C)C)NC	Training	NON-Carcinogen	Carcinogen
+656	82-68-8	O=[N+]([O-])c1c(c(c(c(c1Cl)Cl)Cl)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+657	101-54-2	Nc1ccc(cc1)Nc2ccccc2	Training	NON-Carcinogen	Carcinogen
+658	132-32-1	Nc1ccc3c(c1)c2ccccc2n3CC	Training	Carcinogen	Carcinogen
+659	615-05-4	O(c1ccc(N)cc1(N))C	Training	Carcinogen	Carcinogen
+660	505-60-2	C(CSCCCl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+661	56-75-7	O=C(NC(CO)C(O)c1ccc(cc1)[N+](=O)[O-])C(Cl)Cl	Training	NON-Carcinogen	Carcinogen
+662	55-98-1	O=S(=O)(OCCCCOS(=O)(=O)C)C	Training	Carcinogen	Carcinogen
+663	50-44-2	n1cnc(c2[nH]cnc12)S	Training	NON-Carcinogen	Carcinogen
+664	23214-92-8	O=C1c5cccc(OC)c5(C(=O)c2c(O)c4c(c(O)c12)CC(O)(C(=O)CO)CC4(OC3OC(C)C(O)C(N)C3))	Training	Carcinogen	Carcinogen
+665	64-67-5	O=S(=O)(OCC)OCC	Training	Carcinogen	Carcinogen
+666	926-06-7	O=S(=O)(OC(C)C)C	Training	Carcinogen	Carcinogen
+667	107-21-1	OCCO	Training	NON-Carcinogen	Possible NON-Carcinogen
+668	58-55-9	O=C2c1[nH]cnc1N(C(=O)N2C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+669	548-62-9	c1cc(ccc1N(C)C)[CH2+](c2ccc(cc2)N(C)C)c3ccc(cc3)N(C)C	Training	Carcinogen	Carcinogen
+670	57653-85-7	O1c3cc(c(c(c3(Oc2cc(c(c(c12)Cl)Cl)Cl))Cl)Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+671	56-04-2	O=C1C=C(NC(N1)=S)C	Training	Carcinogen	Carcinogen
+672	68006-83-7	n1c(N)c(cc3c1[nH]c2ccccc23)C	Training	Carcinogen	Carcinogen
+673	53973-98-1	[*]OC1C(O)C(OC(CO)C1(OS(=O)(=O)[O-]))OC3C2OC([*])C(OS(=O)(=O)[O-])C3(OC2)	Training	Carcinogen	Carcinogen
+674	1694-09-3	O=S(=O)([O-])c1cccc(c1)CN(c2ccc(cc2)[CH2+](c3ccc(cc3)N(C)C)c4ccc(cc4)N(Cc5cccc(c5)S(=O)(=O)O)CC)CC	Training	Carcinogen	Carcinogen
+675	108171-27-3	CC(CCCC(CCCC(CCCC(CCCC(CCCC(CCCl)Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+676	N.A.	c2cc(c1ccc(c(c1Cl)Cl)Cl)c(c(c2)Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+677	1456-28-6	O=NN1CC(OC(C)C1)C	Training	Carcinogen	Carcinogen
+678	78-84-2	O=CC(C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+679	84-65-1	O=C1c3ccccc3(C(=O)c2ccccc12)	Training	Carcinogen	Possible NON-Carcinogen
+680	14371-10-9	O=CC=Cc1ccccc1	Training	NON-Carcinogen	Possible NON-Carcinogen
+681	39884-52-1	O=NN1COCC1	Training	Carcinogen	Carcinogen
+682	115-11-7	C=C(C)C	Training	Carcinogen	Possible NON-Carcinogen
+683	127-00-4	OC(C)CCl	Training	NON-Carcinogen	Possible NON-Carcinogen
+684	126-99-8	C=CC(=C)Cl	Training	Carcinogen	Possible NON-Carcinogen
+685	106-87-6	O1CC1C2CCC3OC3(C2)	Training	Carcinogen	Carcinogen
+686	6373-74-6	O=[N+]([O-])c3ccc(Nc2ccc(Nc1ccccc1)c(c2)S(=O)(=O)[O-])c(c3)[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+687	87-86-5	Oc1c(c(c(c(c1Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+688	1330-20-7	c1ccc(c(c1)C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+689	116-14-3	FC(F)=C(F)F	Training	Carcinogen	Possible NON-Carcinogen
+690	2244-16-8	O=C1C(=CCC(C(=C)C)C1)C	Training	NON-Carcinogen	Carcinogen
+691	121-54-0	O(c1ccc(cc1)C(C)(C)CC(C)(C)C)CCOCC[N+](C)(C)Cc2ccccc2	Training	NON-Carcinogen	Carcinogen
+692	1948-33-0	Oc1ccc(O)c(c1)C(C)(C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+693	100-02-7	O=[N+]([O-])c1ccc(O)cc1	Training	NON-Carcinogen	Carcinogen
+694	108-88-3	c1ccc(cc1)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+695	599-79-1	O=C(O)C3=CC(=NNc1ccc(cc1)S(=O)(=O)Nc2ncccc2)C=CC3(=O)	Training	Carcinogen	Carcinogen
+696	1300-72-7	O=S(=O)([O-])c1cccc(c1C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+697	96-13-9	OCC(CBr)Br	Training	Carcinogen	Possible NON-Carcinogen
+698	108-30-5	O=C1OC(=O)CC1	Training	NON-Carcinogen	Possible NON-Carcinogen
+699	30516-87-1	[N-]=[N+]=NC1CC(OC1(CO))N2C=C(C(=O)NC2(=O))C	Training	Carcinogen	Carcinogen
+700	9002-89-5	OC=C	Training	NON-Carcinogen	Possible NON-Carcinogen
+701	7487-94-7	Cl[Hg]Cl	Training	Carcinogen	Possible NON-Carcinogen
+702	1313-99-1	O=[Ni]	Training	Carcinogen	Possible NON-Carcinogen
+703	12035-72-2	S=S=[Ni][Ni][Ni]	Training	Carcinogen	Possible NON-Carcinogen
+704	115-29-7	O=S1OCC2C(CO1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+705	98-96-4	O=C(N)c1nccnc1	Training	NON-Carcinogen	Possible NON-Carcinogen
+706	58-14-0	n1c(nc(c(c1N)c2ccc(cc2)Cl)CC)N	Training	NON-Carcinogen	Carcinogen
+707	76-06-2	O=[N+]([O-])C(Cl)(Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+708	13463-67-7	O=[Ti]=O	Training	NON-Carcinogen	Possible NON-Carcinogen
+709	10043-35-3	OB(O)O	Training	NON-Carcinogen	Possible NON-Carcinogen
+710	1067-33-0	O=C(O[Sn](OC(=O)C)(CCCC)CCCC)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+711	126-98-7	N#CC(=C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+712	99-99-0	O=[N+]([O-])c1ccc(cc1)C	Training	Carcinogen	Carcinogen
+713	22398-80-7	P#[In]	Training	Carcinogen	Possible NON-Carcinogen
+714	80-07-9	O=S(=O)(c1ccc(cc1)Cl)c2ccc(cc2)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+715	88-72-2	O=[N+]([O-])c1ccccc1C	Training	Carcinogen	Carcinogen
+716	23246-96-0	O=C1OC3CCN2CC=C(COC(=O)C(O)(C(=C)CC1(=CC))CO)C23	Training	Carcinogen	Carcinogen
+717	142-83-6	O=CC=CC=CC	Training	Carcinogen	Possible NON-Carcinogen
+718	107-29-9	ON=CC	Training	NON-Carcinogen	Possible NON-Carcinogen
+719	28314-03-6	O=C(Nc2cccc3c1ccccc1Cc23)C	Training	NON-Carcinogen	Carcinogen
+720	3054-95-3	O(CC)C(OCC)C=C	Training	NON-Carcinogen	Possible NON-Carcinogen
+721	5314-33-0	ON=CC=C	Training	NON-Carcinogen	Possible NON-Carcinogen
+722	79-10-7	O=C(O)C=C	Training	NON-Carcinogen	Possible NON-Carcinogen
+723	97-59-6	O=C(N)NC1NC(=O)NC1(=O)	Training	NON-Carcinogen	Possible NON-Carcinogen
+724	107-18-6	OCC=C	Training	NON-Carcinogen	Possible NON-Carcinogen
+725	60142-96-3	O=C(O)CC1(CN)(CCCCC1)	Training	Carcinogen	Possible NON-Carcinogen
+726	4180-23-8	O(c1ccc(cc1)C=CC)C	Training	Carcinogen	Carcinogen
+727	51-55-8	O=C(OC2CC1N(C)C(CC1)C2)C(c3ccccc3)CO	Training	NON-Carcinogen	Carcinogen
+728	3131-60-0	O=C1N=C(N)C=NN1C2OC(CO)C(O)C2(O)	Training	NON-Carcinogen	Carcinogen
+729	N.A.	O=[N+]([N-]C(C)C)C(C)C	Training	Carcinogen	Carcinogen
+730	64896-26-0	N(N=Cc1ccccc1)=Cc2ccccc2	Training	NON-Carcinogen	Possible NON-Carcinogen
+731	65-85-0	O=C(O)c1ccccc1	Training	NON-Carcinogen	Possible NON-Carcinogen
+732	91-76-9	n1c(nc(nc1N)c2ccccc2)N	Training	NON-Carcinogen	Possible NON-Carcinogen
+733	92-52-4	c1ccc(cc1)c2ccccc2	Training	Carcinogen	Possible NON-Carcinogen
+734	6731-36-8	O(OC1(OOC(C)(C)C)(CC(C)CC(C)(C)C1))C(C)(C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+735	13483-19-7	O(CCCCOCCl)CCl	Training	NON-Carcinogen	Possible NON-Carcinogen
+736	56894-92-9	O(CCCCCCOCCl)CCl	Training	NON-Carcinogen	Possible NON-Carcinogen
+737	3844-45-9	O=S(=O)([O-])c1cccc(c1)CN(c2ccc(cc2)[CH2+](c3ccc(cc3)N(Cc4cccc(c4)S(=O)(=O)[O-])CC)c5ccccc5S(=O)(=O)[O-])CC	Training	NON-Carcinogen	Carcinogen
+738	88-85-7	O=[N+]([O-])c1cc(c(O)c(c1)C(C)CC)[N+](=O)[O-]	Training	NON-Carcinogen	Carcinogen
+739	94-26-8	O=C(OCCCC)c1ccc(O)cc1	Training	NON-Carcinogen	Possible NON-Carcinogen
+740	88-26-6	Oc1ccc(c(c1C(C)(C)C)C(C)(C)C)CO	Training	NON-Carcinogen	Possible NON-Carcinogen
+741	97-00-7	O=[N+]([O-])c1ccc(c(c1)[N+](=O)[O-])Cl	Training	NON-Carcinogen	Carcinogen
+742	N.A.	O=NN(C(=O)NCC(O)C)C(C)Cl	Training	Carcinogen	Carcinogen
+743	80-33-1	O=S(=O)([O-])C=2C=CC(CC=2(c1ccccc1))(Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+744	51481-61-9	N#CNC(=NC)NCCSCc1[nH]cnc1C	Training	NON-Carcinogen	Possible NON-Carcinogen
+745	77-92-9	O=C(O)CC(O)(C(=O)O)CC(=O)O	Training	NON-Carcinogen	Possible NON-Carcinogen
+746	477-30-5	O=C1C=C3C(=CC=C1(OC))c2c(OC)c(OC)c(OC)cc2CCC3(NC)	Training	Carcinogen	Carcinogen
+747	95-33-0	n2c1ccccc1sc2SNC3CCCCC3	Training	NON-Carcinogen	Carcinogen
+748	108-91-8	NC1CCCCC1	Training	NON-Carcinogen	Possible NON-Carcinogen
+749	59865-13-3	O=C1NC(C(=O)N(C)C(C(=O)N(C)C(C(=O)N(C)C(C(=O)N(C)C(C(=O)NC(C(=O)N(C)CC(=O)N(C)C(C(=O)NC(C(=O)N(C)C(C(=O)NC1C)CC(C)C)C(C)C)CC(C)C)CC)C(O)C(C)CC=CC)C(C)C)CC(C)C)CC(C)C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+750	52918-63-5	N#CC(OC(=O)C1C(C=C(Br)Br)C1(C)(C))c3cccc(Oc2ccccc2)c3	Training	Carcinogen	Carcinogen
+751	N.A.	C=CCNNCC=C	Training	Carcinogen	Carcinogen
+752	538-41-0	N(=Nc1ccc(N)cc1)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+753	785-30-8	O=C(Nc1ccc(N)cc1)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+754	439-14-5	O=C1N(c3ccc(cc3(C(=NC1)c2ccccc2))Cl)C	Training	NON-Carcinogen	Carcinogen
+755	34522-69-5	n1cccc2c1cc(cc2Br)Br	Training	NON-Carcinogen	Carcinogen
+756	87-56-9	O=CC(=C(C(=O)O)Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+757	117-80-6	O=C1c2ccccc2(C(=O)C(=C1Cl)Cl)	Training	NON-Carcinogen	Possible NON-Carcinogen
+758	99-30-9	O=[N+]([O-])c1cc(c(N)c(c1)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+759	120-36-5	O=C(O)C(Oc1ccc(cc1Cl)Cl)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+760	6965-71-5	O=C(O)C(Oc1cc(ccc1Cl)Cl)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+761	94-75-7	O=C(O)COc1ccc(cc1Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+762	94-80-4	O=C(OCCCC)COc1ccc(cc1Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+763	94-11-1	O=C(OC(C)C)COc1ccc(cc1Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+764	330-54-1	O=C(Nc1ccc(c(c1)Cl)Cl)N(C)C	Training	NON-Carcinogen	Carcinogen
+765	97-16-5	O=S(=O)([O-])c2ccccc2(c1ccc(cc1Cl)Cl)	Training	NON-Carcinogen	Possible NON-Carcinogen
+766	81-21-0	O3C4CC5C2CC(C1OC12)C5(C34)	Training	NON-Carcinogen	Carcinogen
+767	7316-37-2	O=P([O-])([O-])CC1OC1(CC)(CC)	Training	Carcinogen	Carcinogen
+768	2921-88-2	n1c(OP(OCC)(OCC)=S)c(cc(c1Cl)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+769	62488-57-7	O=C1N=C(N)NCN1C2OC(CO)C(O)C2(O)	Training	NON-Carcinogen	Possible NON-Carcinogen
+770	1150-42-1	O=C2Oc1cc(OC)cc(OC)c1C3=C2C(=O)CC3	Training	Carcinogen	Carcinogen
+771	N.A.	O=C(OC(CC)C(c1ccccc1)(c2ccccc2)CC(N(C)C)C)C	Training	Carcinogen	Carcinogen
+772	125-56-4	O=C(CC)C(c1ccccc1)(c2ccccc2)CC(N(C)C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+773	25962-77-0	O=[N+]([O-])c2oc(C=Cc1nnc(N=CN(C)C)o1)cc2	Training	Carcinogen	Carcinogen
+774	6120-10-1	Oc1cc(c(c(c1)C)N(C)C)C	Training	NON-Carcinogen	Carcinogen
+775	58-15-1	O=C2C(=C(N(N2(c1ccccc1))C)C)N(C)C	Training	NON-Carcinogen	Carcinogen
+776	108-01-0	OCCN(C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+777	1643-20-5	[O-][N+](C)(C)CCCCCCCCCCCC	Training	NON-Carcinogen	Possible NON-Carcinogen
+778	6119-92-2	O=C(Oc1ccc(c(c1C(C)CCCCCC)[N+](=O)[O-])[N+](=O)[O-])C=CC	Training	NON-Carcinogen	Carcinogen
+779	29110-68-7	O=[N+]([O-])c1cc(c(c(c1)C(C)(C)C)CS(=O)(=O)[O-])[N+](=O)[O-]	Training	NON-Carcinogen	Carcinogen
+780	51-28-5	O=[N+]([O-])c1ccc(O)c(c1)[N+](=O)[O-]	Training	NON-Carcinogen	Carcinogen
+781	101-25-7	O=NN1CN2CN(N=O)CN(C1)C2	Training	NON-Carcinogen	Carcinogen
+782	971-15-3	C(N1CCCCC1)(=S)SSSSC(N2CCCCC2)=S	Training	NON-Carcinogen	Possible NON-Carcinogen
+783	86-29-3	N#CC(c1ccccc1)c2ccccc2	Training	NON-Carcinogen	Possible NON-Carcinogen
+784	102-09-0	O=C(Oc1ccccc1)Oc2ccccc2	Training	NON-Carcinogen	Possible NON-Carcinogen
+785	N.A.	[O-][n+]2ccc(N=Nc1ccc(cc1)N(CCC)CCC)cc2	Training	NON-Carcinogen	Carcinogen
+786	103-90-2	O=C(Nc1ccc(O)cc1)C	Training	Carcinogen	Carcinogen
+787	6098-44-8	O=C(ON(c2ccc3c1ccccc1Cc3(c2))C(=O)C)C	Training	Carcinogen	Carcinogen
+788	613-13-8	Nc1ccc2cc3ccccc3(cc2(c1))	Training	Carcinogen	Carcinogen
+789	60-09-3	N(=Nc1ccc(N)cc1)c2ccccc2	Training	Carcinogen	Carcinogen
+790	2113-61-3	c1ccc(cc1)c2ccc(cc2)[NH3+]	Training	Carcinogen	Carcinogen
+791	77500-04-0	n1cc(nc3c1ccc2c3(nc(N)n2C))C	Training	Carcinogen	Carcinogen
+792	153-78-6	Nc2ccc3c1ccccc1Cc3(c2)	Training	Carcinogen	Carcinogen
+793	N.A.	n1cccc2ccccc12	Training	Carcinogen	Carcinogen
+794	105650-23-5	n1cc(cc2c1nc(N)n2C)c3ccccc3	Training	Carcinogen	Carcinogen
+795	313-67-7	O=C(O)c2cc1OCOc1c3c4cccc(OC)c4(cc(c23)[N+](=O)[O-])	Training	Carcinogen	Carcinogen
+796	27323-18-8	c1ccc(cc1)c2ccccc2Cl	Training	Carcinogen	Possible NON-Carcinogen
+797	17697-53-9	O=[N+]([N-]C(C)C)C(C)C	Training	Carcinogen	Carcinogen
+798	144-02-5	O=C1[N-]C(=O)C(C(=O)N1)(CC)CC	Training	Carcinogen	Carcinogen
+799	17804-35-2	O=C(OC)Nc2nc1ccccc1n2(C(=O)NCCCC)	Training	Carcinogen	Carcinogen
+800	56-55-3	c3ccc4cc2c(ccc1ccccc12)cc4(c3)	Training	Carcinogen	Carcinogen
+801	106-51-4	O=C1C=CC(=O)C=C1	Training	Carcinogen	Carcinogen
+802	33372-39-3	O=[N+]([O-])c3ccc(c2nc1ccccc1c(n2)N(CCO)CCO)s3	Training	Carcinogen	Carcinogen
+803	23746-34-1	OCCN(C(=S)[S-])CCO	Training	Carcinogen	Carcinogen
+804	16238-56-5	c1ccc2c(c1)ccc4c2c(c3ccccc3c4CBr)C	Training	Carcinogen	Carcinogen
+805	10108-64-2	Cl[Cd]Cl	Training	Carcinogen	Possible NON-Carcinogen
+806	50-14-6	OC3CC(=CC=C1CCCC2(C)(C1CCC2(C(C=CC(C)C(C)C)C)))C(=C)CC3	Training	Carcinogen	Carcinogen
+807	63-25-2	O=C(Oc1cccc2ccccc12)NC	Training	Carcinogen	Carcinogen
+808	9000-07-1	O=C(OC2CC1N(C)C(CC1)C2)C(c3ccccc3)CO	Training	Carcinogen	Carcinogen
+809	108171-26-2	CCC(C(C(CC(C(C(C)Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+810	63449-39-8	CCCC(CCCC(CCC(CCC(CCC(CCCC(CCC)Cl)Cl)Cl)Cl)Cl)Cl	Training	Carcinogen	Carcinogen
+811	108-90-7	c1ccc(cc1)Cl	Training	Carcinogen	Possible NON-Carcinogen
+812	13010-20-3	O=NN(C(=O)NCC(O)C)C(C)Cl	Training	Carcinogen	Carcinogen
+813	69-09-0	c1ccc3c(c1)N(c2cc(ccc2S3)Cl)CCCN(C)C	Training	Carcinogen	Carcinogen
+814	81-55-0	O=C1c3c(O)ccc(c3(C(=O)c2c(ccc(O)c12)[N+](=O)[O-]))[N+](=O)[O-]	Training	Carcinogen	Carcinogen
+815	27208-37-3	c1cc2ccc3ccc4C=Cc5cc(c1)c2c3c45	Training	Carcinogen	Carcinogen
+816	853-23-6	O=C(OC3CC2=CCC1C4CCC(=O)C4(C)(CCC1C2(C)CC3))C	Training	Carcinogen	Carcinogen
+817	26072-78-6	C=CCNNCC=C	Training	Carcinogen	Carcinogen
+818	N.A.	N#[N+]c1cc(ccc1([O-]))CCN	Training	Carcinogen	Carcinogen
+819	4106-66-5	o2c1ccccc1c3ccc(N)cc23	Training	Carcinogen	Carcinogen
+820	685-91-6	O=C(N(CC)CC)C	Training	Carcinogen	Possible NON-Carcinogen
+821	7347-49-1	[O-][n+]2ccc(N=Nc1ccc(cc1)N(CC)CC)cc2	Training	Carcinogen	Carcinogen
+822	130-80-3	O=C(Oc1ccc(cc1)C(=C(c2ccc(OC(=O)CC)cc2)CC)CC)CC	Training	Carcinogen	Carcinogen
+823	33389-33-2	O=C1NC(Nc2ccccc12)c3ccc([N+](=O)[O-])s3	Training	Carcinogen	Carcinogen
+824	43033-72-3	O=C(OC(CC)C(c1ccccc1)(c2ccccc2)CC(N(C)C)C)C	Training	Carcinogen	Carcinogen
+825	142713-77-7	O=N[O-]	Training	Carcinogen	Possible NON-Carcinogen
+826	55738-54-0	O=[N+]([O-])c2oc(C=Cc1nnc(N=CN(C)C)o1)cc2	Training	Carcinogen	Carcinogen
+827	119-93-7	Nc1ccc(cc1C)c2ccc(N)c(c2)C	Training	Carcinogen	Carcinogen
+828	15973-99-6	O=NN1CN(N=O)CCC1	Training	Carcinogen	Carcinogen
+829	3604-87-3	O=C3C=C1C(CCC2(C)(C(CCC12(O))C(C)C(O)CCC(O)(C)C))C4(C)(CC(O)C(O)CC34)	Training	Carcinogen	Carcinogen
+830	57-63-6	C#CC3(O)(CCC2C4CCc1cc(O)ccc1C4(CCC23(C)))	Training	Carcinogen	Possible NON-Carcinogen
+831	N.A.	O=NN(C(=O)NCCO)CC	Training	Carcinogen	Carcinogen
+832	110559-84-7	O=NN(C(=O)NCC(=O)C)CC	Training	Carcinogen	Carcinogen
+833	98319-26-7	O=C1C=CC4(C)(C(N1)CCC2C4(CCC3(C)(C(C(=O)NC(C)(C)C)CCC23)))	Training	Carcinogen	Carcinogen
+834	86386-73-4	Fc1ccc(c(F)c1)C(O)(Cn2ncnc2)Cn3ncnc3	Training	Carcinogen	Possible NON-Carcinogen
+835	69112-98-7	O=NN(C(=O)N)CCF	Training	Carcinogen	Carcinogen
+836	51-21-8	O=C1NC=C(F)C(=O)N1	Training	Carcinogen	Carcinogen
+837	93957-54-1	O=C(O)CC(O)CC(O)C=Cc3c(c1ccc(F)cc1)c2ccccc2n3C(C)C	Training	Carcinogen	Possible NON-Carcinogen
+838	1303-00-0	[Ga]#[As]	Training	Carcinogen	Possible NON-Carcinogen
+839	69644-85-5	O=C(O)c1ccc(cc1)NNC(=O)CCC(N)C(=O)O	Training	Carcinogen	Carcinogen
+840	765-34-4	O=CC1OC1	Training	Carcinogen	Carcinogen
+841	52-86-8	O=C(c1ccc(F)cc1)CCCN3CCC(O)(c2ccc(cc2)Cl)CC3	Training	Carcinogen	Carcinogen
+842	57590-22-4	O=CN(N=CCCCCC)C	Training	Carcinogen	Carcinogen
+843	18774-85-1	O=NN(C(=O)N)CCCCCC	Training	Carcinogen	Carcinogen
+844	26049-68-3	O=[N+]([O-])c1oc(cc1)c2nc(NN)sc2	Training	Carcinogen	Carcinogen
+845	24589-77-3	O=C(O)c1ccc(cc1)NN	Training	Carcinogen	Carcinogen
+846	4637-56-3	ON=C1C=CN(O)c2ccccc12	Training	Carcinogen	Carcinogen
+847	129-43-1	O=C1c3ccccc3(C(=O)c2c(O)cccc12)	Training	Carcinogen	Carcinogen
+848	1083-57-4	O=C(Nc1ccc(OCC)cc1)CC(O)C	Training	Carcinogen	Carcinogen
+849	33389-36-5	O=[N+]([O-])c3ccc(c2nc1ccccc1c(n2)NCCO)s3	Training	Carcinogen	Carcinogen
+850	96724-45-7	O=NN(C(=O)NCC)CCO	Training	Carcinogen	Carcinogen
+851	71752-70-0	O=NN(C(=O)N)CCCO	Training	Carcinogen	Carcinogen
+852	146-59-8	n2c1ccc(OC)cc1c(NCCCN(CC)CCCl)c3ccc(cc23)Cl	Training	Carcinogen	Carcinogen
+853	100643-96-7	O=C3NN=C(c1ccc2NC(=O)C(c2(c1))(C)C)CC3	Training	Carcinogen	Carcinogen
+854	86315-52-8	O=S(c3ccc(c1nc2cnccc2([nH]1))c(OC)c3)C	Training	Carcinogen	Carcinogen
+855	78-79-5	C=CC(=C)C	Training	Carcinogen	Carcinogen
+856	115-09-3	C[Hg]Cl	Training	Carcinogen	Possible NON-Carcinogen
+857	950-37-8	O=C1N(N=C(OC)S1)CSP(OC)(OC)=S	Training	Carcinogen	Carcinogen
+858	3544-23-8	N(=Nc1ccc(N)c(OC)c1)c2ccccc2	Training	Carcinogen	Carcinogen
+859	934-00-9	Oc1cccc(OC)c1(O)	Training	Carcinogen	Possible NON-Carcinogen
+860	150-76-5	Oc1ccc(OC)cc1	Training	Carcinogen	Possible NON-Carcinogen
+861	57497-34-4	O=[N+]([N-]CC)C	Training	Carcinogen	Carcinogen
+862	57590-21-3	O=CN(N=CCC(C)C)C	Training	Carcinogen	Carcinogen
+863	1634-04-4	O(C)C(C)(C)C	Training	Carcinogen	Possible NON-Carcinogen
+864	452-86-8	Oc1ccc(cc1(O))C	Training	Carcinogen	Possible NON-Carcinogen
+865	21340-68-1	O=C(OC)C(Oc1ccc(cc1)c2ccc(cc2)Cl)(C)C	Training	Carcinogen	Carcinogen
+866	55-80-1	N(=Nc1cccc(c1)C)c2ccc(cc2)N(C)C	Training	Carcinogen	Carcinogen
+867	64049-29-2	Nc1ccc(cc1Cl)Cc2ccc(c(c2)Cl)[NH3+]	Training	Carcinogen	Carcinogen
+868	74-88-4	CI	Training	Carcinogen	Possible NON-Carcinogen
+869	598-57-2	O=[N+]([O-])CN	Training	Carcinogen	Possible NON-Carcinogen
+870	76014-81-8	O=NN(C)CCCC(O)c1cnccc1	Training	Carcinogen	Carcinogen
+871	14026-03-0	O=NN1CCCCC1C	Training	Carcinogen	Carcinogen
+872	36702-44-0	O=NN1CCCCC1C	Training	Carcinogen	Carcinogen
+873	58139-48-3	O=[N+]([O-])c4ccc(c2nc1ccccc1c(n2)N3CCOCC3)s4	Training	Carcinogen	Carcinogen
+874	3771-19-5	O=C(O)C(Oc1ccc(cc1)C3c2ccccc2CCC3)(C)C	Training	Carcinogen	Carcinogen
+875	98-95-3	O=[N+]([O-])c1ccccc1	Training	Carcinogen	Carcinogen
+876	92-93-3	O=[N+]([O-])c1ccc(cc1)c2ccccc2	Training	Carcinogen	Carcinogen
+877	555-84-0	O=C2NCCN2(N=Cc1oc(cc1)[N+](=O)[O-])	Training	Carcinogen	Carcinogen
+878	2122-86-3	O=[N+]([O-])c1oc(cc1)c2nnc(O)o2	Training	Carcinogen	Carcinogen
+879	5522-43-0	O=[N+]([O-])c4ccc1ccc2cccc3ccc4(c1c23)	Training	Carcinogen	Carcinogen
+880	10595-95-6	O=NN(C)CC	Training	Carcinogen	Carcinogen
+881	42579-28-2	O=NN1C(=O)NC(=O)C1	Training	Carcinogen	Carcinogen
+882	56222-35-6	O=NN1CCC(O)C1	Training	Carcinogen	Carcinogen
+883	26921-68-6	O=NN(C)CCO	Training	Carcinogen	Carcinogen
+884	70415-59-7	O=NN(C)CCCO	Training	Carcinogen	Carcinogen
+885	55984-51-5	O=NN(C)CC(=O)C	Training	Carcinogen	Carcinogen
+886	66398-63-8	O=NCNCCOS(=O)(=O)c1ccc(cc1)C	Training	Carcinogen	Carcinogen
+887	38347-74-9	O=NN1C(=O)OCC1	Training	Carcinogen	Carcinogen
+888	92177-49-6	O=NC(=O)CCNCCO	Training	Carcinogen	Carcinogen
+889	5632-47-3	O=NN1CCNCC1	Training	Carcinogen	Carcinogen
+890	81795-07-5	O=NN1C(C)SC(C)SC1C	Training	Carcinogen	Carcinogen
+891	26541-51-5	O=NN1CCSCC1	Training	Carcinogen	Carcinogen
+892	75881-18-4	O=NN1CC(N(C)C(C)C1)C	Training	Carcinogen	Carcinogen
+893	3096-50-2	O=C2c1ccccc1c3ccc(cc23)NC(=O)C	Training	Carcinogen	Carcinogen
+894	14698-29-4	O=C(O)C1=CN(c2cc3OCOc3(cc2(C1(=O))))CC	Training	Carcinogen	Carcinogen
+895	10028-15-6	O=[O+][O-]	Training	Carcinogen	Possible NON-Carcinogen
+896	57590-20-2	O=CN(N=CCCCC)C	Training	Carcinogen	Carcinogen
+897	298-14-6	O=C([O-])O	Training	Carcinogen	Possible NON-Carcinogen
+898	50-24-8	O=C1C=CC3(C(=C1)CCC2C4CCC(O)(C(=O)CO)C4(C)(CC(O)C23))(C)	Training	Carcinogen	Carcinogen
+899	57-83-0	O=C4C=C3CCC1C(CCC2(C)(C(C(=O)C)CCC12))C3(C)CC4	Training	Carcinogen	Carcinogen
+900	816-57-9	O=NN(C(=O)N)CCC	Training	Carcinogen	Carcinogen
+901	127-47-9	O=C(OCC=C(C=CC=C(C=CC1=C(C)CCCC1(C)C)C)C)C	Training	Carcinogen	Carcinogen
+902	2318-18-5	O=C2OC1C(=O)C(=CCN(C)CC1)COC(=O)C(O)(C)C(C)CC2(=CC)	Training	Carcinogen	Carcinogen
+903	533-31-3	Oc1ccc2OCOc2(c1)	Training	Carcinogen	Carcinogen
+904	10588-01-9	O=[Cr](=O)([O-])O[Cr](=O)(=O)[O-]	Training	Carcinogen	Possible NON-Carcinogen
+905	57-68-1	O=S(=O)(Nc1nc(cc(n1)C)C)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+906	723-46-6	O=S(=O)(Nc1noc(c1)C)c2ccc(N)cc2	Training	Carcinogen	Carcinogen
+907	2611-82-7	O=C4C=Cc1cc(cc(c1C4(=NNc2ccc(c3ccccc23)S(=O)(=O)[O-]))S(=O)(=O)[O-])S(=O)(=O)[O-]	Training	Carcinogen	Carcinogen
+908	58-22-0	O=C4C=C3CCC1C(CCC2(C)(C(O)CCC12))C3(C)CC4	Training	Carcinogen	Carcinogen
+909	16561-29-8	O=C(OC34(C(OC(=O)CCCCCCCCCCCCC)C(C)C2(O)(C(C=C(CO)CC1(O)(C(=O)C(=CC12)C))C3C4(C)(C))))C	Training	Carcinogen	Carcinogen
+910	40548-68-3	O=NN1OCCCC1	Training	Carcinogen	Carcinogen
+911	76-25-5	O=C1C=CC4(C(=C1)CCC3C5CC2OC(OC2(C(=O)CO)C5(C)(CC(O)C34(F)))(C)C)(C)	Training	Carcinogen	Carcinogen
+912	76-03-9	O=C(O)C(Cl)(Cl)Cl	Training	Carcinogen	Possible NON-Carcinogen
+913	133-07-3	O=C1c2ccccc2(C(=O)N1SC(Cl)(Cl)Cl)	Training	Carcinogen	Carcinogen
+914	21436-97-5	c1c(c(cc(c1C)[NH3+])C)C	Training	Carcinogen	Carcinogen
+915	95-63-6	c1cc(c(cc1C)C)C	Training	Carcinogen	Possible NON-Carcinogen
+916	81-15-2	O=[N+]([O-])c1c(c(c(c(c1C)[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C	Training	Carcinogen	Carcinogen
+917	55-63-0	O=[N+]([O-])OCC(O[N+](=O)[O-])CO[N+](=O)[O-]	Training	Carcinogen	Possible NON-Carcinogen
+918	38571-73-2	O(CC(OCCl)COCCl)CCl	Training	Carcinogen	Possible NON-Carcinogen
+919	66-22-8	O=C1C=CNC(=O)N1	Training	Carcinogen	Carcinogen
+920	66-75-1	O=C1NC=C(C(=O)N1)N(CCCl)CCCl	Training	Carcinogen	Carcinogen
+921	15805-73-9	O=C(OC=C)N	Training	Carcinogen	Possible NON-Carcinogen
+922	21436-96-4	Nc1ccc(cc1C)C	Training	Carcinogen	Carcinogen
+923	51786-53-9	Nc1cc(ccc1C)C	Training	Carcinogen	Carcinogen
+924	75-05-8	N#CC	Training	NON-Carcinogen	Possible NON-Carcinogen
+925	7177-48-2	O=C(O)C3N2C(=O)C(NC(=O)C(N)c1ccccc1)C2SC3(C)(C)	Training	NON-Carcinogen	Possible NON-Carcinogen
+926	20265-97-8	O(c1ccc(N)cc1)C	Training	NON-Carcinogen	Carcinogen
+927	86-50-0	O=C1c2ccccc2(N=NN1CSP(OC)(OC)=S)	Training	NON-Carcinogen	Carcinogen
+928	532-32-1	O=C([O-])c1ccccc1	Training	NON-Carcinogen	Possible NON-Carcinogen
+929	95-14-7	n1[nH]nc2ccccc12	Training	NON-Carcinogen	Possible NON-Carcinogen
+930	592-31-4	O=C(N)NCCCC	Training	NON-Carcinogen	Possible NON-Carcinogen
+931	96-48-0	O=C1OCCC1	Training	NON-Carcinogen	Possible NON-Carcinogen
+932	532-27-4	O=C(c1ccccc1)CCl	Training	NON-Carcinogen	Possible NON-Carcinogen
+933	6471-49-4	O=C(Nc1cccc(c1)[N+](=O)[O-])C3=Cc4ccccc4(C(=NNc2cc(ccc2(OC))[N+](=O)[O-])C3(=O))	Training	NON-Carcinogen	Carcinogen
+934	108-94-1	O=C1CCCCC1	Training	NON-Carcinogen	Possible NON-Carcinogen
+935	4998-76-9	[NH3+]C1CCCCC1	Training	NON-Carcinogen	Possible NON-Carcinogen
+936	131-17-9	O=C(OCC=C)c1ccccc1(C(=O)OCC=C)	Training	NON-Carcinogen	Possible NON-Carcinogen
+937	33857-26-0	O1c3ccc(cc3(Oc2ccc(cc12)Cl))Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+938	75-34-3	CC(Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+939	1095-90-5	O=C(CC)C(c1ccccc1)(c2ccccc2)CC(N(C)C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+940	120-61-6	O=C(OC)c1ccc(cc1)C(=O)OC	Training	NON-Carcinogen	Possible NON-Carcinogen
+941	147-24-0	O(CCN(C)C)C(c1ccccc1)c2ccccc2	Training	NON-Carcinogen	Possible NON-Carcinogen
+942	142-46-1	NC(NNC(N)=S)=S	Training	NON-Carcinogen	Possible NON-Carcinogen
+943	6381-77-7	O=C1OC(C(O)=C1(O))C(O)C[O-]	Training	NON-Carcinogen	Possible NON-Carcinogen
+944	29975-16-4	n1nc2n(c1)c4ccc(cc4(C(=NC2)c3ccccc3))Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+945	72-56-0	c1cc(ccc1CC)C(c2ccc(cc2)CC)C(Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+946	41340-25-4	O=C(O)CC2(OCCc1c3cccc(c3([nH]c12))CC)CC	Training	NON-Carcinogen	Possible NON-Carcinogen
+947	97-53-0	Oc1ccc(cc1(OC))CC=C	Training	NON-Carcinogen	Carcinogen
+948	2353-45-9	O=S(=O)([O-])c1cccc(c1)CN(c2ccc(cc2)[CH2+](c3ccc(cc3)N(Cc4cccc(c4)S(=O)(=O)[O-])CC)c5ccc(O)cc5S(=O)(=O)[O-])CC	Training	NON-Carcinogen	Carcinogen
+949	1934-21-0	O=C([O-])C2=NN(C(=O)C2(N=Nc1ccc(cc1)S(=O)(=O)[O-]))c3ccc(cc3)S(=O)(=O)[O-]	Training	NON-Carcinogen	Carcinogen
+950	55-38-9	O(c1ccc(c(c1)C)SC)P(OC)(OC)=S	Training	NON-Carcinogen	Possible NON-Carcinogen
+951	51630-58-1	N#CC(OC(=O)C(c1ccc(cc1)Cl)C(C)C)c3cccc(Oc2ccccc2)c3	Training	NON-Carcinogen	Carcinogen
+952	2164-17-2	O=C(Nc1cccc(c1)C(F)(F)F)N(C)C	Training	NON-Carcinogen	Carcinogen
+953	25812-30-0	O=C(O)C(C)(C)CCCOc1cc(ccc1C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+954	9000-30-0	O=C3C=C(OC)C2(Oc1c(c(OC)cc(OC)c1Cl)C2(=O))C(C)C3	Training	NON-Carcinogen	Carcinogen
+955	9000-01-5	O=C(OC)c1nc2cc(c3cccnc3(c2(o1)))Cl	Training	NON-Carcinogen	Carcinogen
+956	59820-43-8	O=[N+]([O-])c1ccc(NCCO)c(OCCO)c1	Training	NON-Carcinogen	Carcinogen
+957	100-97-0	N12(CN3CN(C1)CN(C2)C3)	Training	NON-Carcinogen	Possible NON-Carcinogen
+958	136-77-6	Oc1ccc(c(O)c1)CCCCCC	Training	NON-Carcinogen	Possible NON-Carcinogen
+959	58-93-5	O=S(=O)(N)c1cc2c(cc1Cl)NCNS2(=O)(=O)	Training	NON-Carcinogen	Carcinogen
+960	80-05-7	Oc1ccc(cc1)C(c2ccc(O)cc2)(C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+961	123-33-1	O=C1C=CC(=O)NN1	Training	NON-Carcinogen	Carcinogen
+962	59-05-2	O=C(O)CCC(NC(=O)c1ccc(cc1)N(C)Cc2nc3c(nc2)nc(nc3(N))N)C(=O)O	Training	NON-Carcinogen	Carcinogen
+963	100-01-6	O=[N+]([O-])c1ccc(N)cc1	Training	NON-Carcinogen	Carcinogen
+964	121-19-7	O=[N+]([O-])c1cc(ccc1(O))[As](=O)(O)O	Training	NON-Carcinogen	Carcinogen
+965	504-88-1	O=C(O)CC[N+](=O)[O-]	Training	NON-Carcinogen	Possible NON-Carcinogen
+966	11042-64-1	O=C(OC1CCC25(CC35(CCC4(C)(C(CCC4(C)(C3(CCC2(C1(C)(C)))))C(C)CCC=C(C)C))))C=Cc6ccc(O)c(OC)c6	Training	NON-Carcinogen	Carcinogen
+967	23135-22-0	O=C(ON=C(C(=O)N(C)C)SC)NC	Training	NON-Carcinogen	Possible NON-Carcinogen
+968	6452-73-9	OC(COc1ccccc1(OCC=C))CNC(C)C	Training	NON-Carcinogen	Possible NON-Carcinogen
+969	2058-46-0	O=C3C(=C(O)N)C(=O)C4(O)(C(=O)C2=C(O)c1c(O)cccc1C(O)(C)C2C(O)C4(C3N(C)C))	Training	NON-Carcinogen	Possible NON-Carcinogen
+970	56-38-2	O=[N+]([O-])c1ccc(OP(OCC)(OCC)=S)cc1	Training	NON-Carcinogen	Carcinogen
+971	78-11-5	O=[N+]([O-])OCC(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-]	Training	NON-Carcinogen	Possible NON-Carcinogen
+972	135-88-6	c1ccc(cc1)Nc2ccc3ccccc3(c2)	Training	NON-Carcinogen	Carcinogen
+973	2198-59-6	Nc1ccc(cc1)Nc2ccccc2	Training	NON-Carcinogen	Carcinogen
+974	1918-02-1	O=C(O)c1nc(c(c(N)c1Cl)Cl)Cl	Training	NON-Carcinogen	Carcinogen
+975	9005-65-6	O=C(OCCOCC(OCCO)C1OC(OCCO)CC1(OCCO))CCCCCCCC=CCCCCCCCC	Training	NON-Carcinogen	Carcinogen
+976	121-79-9	O=C(OCCC)c1cc(O)c(O)c(O)c1	Training	NON-Carcinogen	Possible NON-Carcinogen
+977	989-38-8	O=C(OCC)c1ccccc1C3=C4C=C(C(=NCC)C=C4(Oc2cc(NCC)c(cc23)C))C	Training	NON-Carcinogen	Carcinogen
+978	83-79-4	O=C3c5ccc1OC(C(=C)C)Cc1c5(OC4COc2cc(OC)c(OC)cc2C34)	Training	NON-Carcinogen	Carcinogen
+979	110-44-1	O=C(O)C=CC=CC	Training	NON-Carcinogen	Possible NON-Carcinogen
+980	959-24-0	O=S(=O)(Nc1ccc(cc1)C(O)CNC(C)C)C	Training	NON-Carcinogen	Carcinogen
+981	1972-08-3	Oc1cc(cc2OC(C)(C)C3CCC(=CC3(c12))C)CCCCC	Training	NON-Carcinogen	Carcinogen
+982	137-26-8	C(N(C)C)(=S)SSC(N(C)C)=S	Training	NON-Carcinogen	Possible NON-Carcinogen
+983	93-76-5	O=C(O)COc1cc(c(cc1Cl)Cl)Cl	Training	NON-Carcinogen	Possible NON-Carcinogen
+984	6138-79-0	n1ccccc1C(=CCN2CCCC2)c3ccc(cc3)C	Training	NON-Carcinogen	Carcinogen
+985	8024-37-1	O=C(C=Cc1ccc(O)c(OC)c1)CC(=O)C=Cc2ccc(O)c(OC)c2	Training	NON-Carcinogen	Possible NON-Carcinogen
+986	57-13-6	O=C(N)N	Training	NON-Carcinogen	Possible NON-Carcinogen
